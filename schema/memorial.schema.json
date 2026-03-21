@@ -1,0 +1,348 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bombermemorial.co.uk/schema/memorial.json",
+  "title": "Bomber Memorial Record",
+  "description": "Schema for WW2 bomber crash site memorial records — supports UK and international sites, sparse and rich entries.",
+  "type": "object",
+  "required": ["id", "title", "location", "status"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier. Format: region-NNN (e.g. LN-001, INT-NL-001)",
+      "pattern": "^[A-Z]{2,4}-[A-Z]{0,3}-?\\d{3,4}$"
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable title: '[Location] — [Aircraft Type] [Serial]'",
+      "examples": ["Farnsfield — Halifax Mk.III MZ519", "Roermond — Lancaster III PB457"]
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL-safe identifier for routing (e.g. farnsfield-halifax-mz519)",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["stub", "partial", "complete", "verified"],
+      "description": "Data completeness: stub (location only), partial (some fields), complete (all core fields), verified (CWGC cross-checked)"
+    },
+
+    "location": {
+      "type": "object",
+      "required": ["name", "country"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Village, town or nearest settlement"
+        },
+        "county": {
+          "type": "string",
+          "description": "County or administrative region (UK entries)"
+        },
+        "country": {
+          "type": "string",
+          "description": "ISO 3166-1 alpha-2 country code",
+          "pattern": "^[A-Z]{2}$"
+        },
+        "country_name": {
+          "type": "string",
+          "description": "Full country name for display"
+        },
+        "latitude": {
+          "type": "number",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "longitude": {
+          "type": "number",
+          "minimum": -180,
+          "maximum": 180
+        },
+        "os_grid_ref": {
+          "type": "string",
+          "description": "Ordnance Survey grid reference (UK only)",
+          "pattern": "^[A-Z]{2}\\s?\\d{4,10}$"
+        },
+        "directions": {
+          "type": "string",
+          "description": "How to find the memorial from the nearest road or landmark"
+        },
+        "nearest_airfield": {
+          "type": "string",
+          "description": "RAF station the aircraft was based at or nearest to crash"
+        }
+      }
+    },
+
+    "crash_event": {
+      "type": "object",
+      "properties": {
+        "date": {
+          "type": "string",
+          "format": "date",
+          "description": "Date of crash (ISO 8601: YYYY-MM-DD)"
+        },
+        "time": {
+          "type": "string",
+          "description": "Time of crash if known (HH:MM, 24hr)",
+          "pattern": "^\\d{2}:\\d{2}$"
+        },
+        "operation_type": {
+          "type": "string",
+          "enum": ["operational", "training", "ferry", "test", "return", "unknown"],
+          "description": "Type of mission"
+        },
+        "mission_target": {
+          "type": "string",
+          "description": "Target or destination if operational sortie"
+        },
+        "cause_of_loss": {
+          "type": "string",
+          "description": "Brief cause: engine failure, flak, mid-air collision, etc."
+        },
+        "narrative": {
+          "type": "string",
+          "description": "Full prose account of the incident — the story that makes people care"
+        },
+        "casualties_killed": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "casualties_survived": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+
+    "aircraft": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "description": "Aircraft type and mark (e.g. 'Avro Lancaster Mk.I')"
+        },
+        "type_short": {
+          "type": "string",
+          "description": "Short form for display (e.g. 'Lancaster', 'Halifax', 'Wellington')"
+        },
+        "serial": {
+          "type": "string",
+          "description": "Aircraft serial number (e.g. 'MZ519', 'W4270')"
+        },
+        "code": {
+          "type": "string",
+          "description": "Squadron code letters (e.g. 'QR-T')"
+        },
+        "squadron": {
+          "type": "string",
+          "description": "Squadron number and any suffix (e.g. '61 Squadron')"
+        },
+        "squadron_number": {
+          "type": "integer",
+          "description": "Numeric squadron number for filtering"
+        },
+        "unit": {
+          "type": "string",
+          "description": "Parent unit if not a squadron (e.g. '1660 HCU')"
+        },
+        "station": {
+          "type": "string",
+          "description": "RAF station (e.g. 'RAF Syerston')"
+        }
+      }
+    },
+
+    "crew": {
+      "type": "array",
+      "description": "Individual crew member records",
+      "items": {
+        "type": "object",
+        "required": ["name", "fate"],
+        "properties": {
+          "rank": {
+            "type": "string",
+            "description": "Service rank (e.g. 'Sgt', 'F/O', 'P/O')"
+          },
+          "name": {
+            "type": "string",
+            "description": "Full name"
+          },
+          "service_number": {
+            "type": "string",
+            "description": "Service number with branch (e.g. '177439 RAFVR', 'R/102085 RCAF')"
+          },
+          "age": {
+            "type": "integer",
+            "minimum": 15,
+            "maximum": 65
+          },
+          "role": {
+            "type": "string",
+            "description": "Crew role (Pilot, Navigator, Flight Engineer, Air Bomber, W/Op Air Gunner, Air Gunner, etc.)"
+          },
+          "nationality": {
+            "type": "string",
+            "description": "Nationality and home location if known (e.g. 'Canadian (Saskatchewan)')"
+          },
+          "fate": {
+            "type": "string",
+            "enum": ["killed", "survived", "pow", "evaded", "unknown"],
+            "description": "Outcome for this crew member"
+          },
+          "burial": {
+            "type": "string",
+            "description": "Cemetery and grave reference"
+          },
+          "cwgc_url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Commonwealth War Graves Commission casualty page URL"
+          },
+          "cwgc_verified": {
+            "type": "boolean",
+            "description": "Whether CWGC record has been cross-checked"
+          },
+          "decorations": {
+            "type": "string",
+            "description": "Awards and decorations (e.g. 'DFM', 'DFC')"
+          }
+        }
+      }
+    },
+
+    "memorial": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "description": "Memorial form: stone, plaque, cairn, cross, garden, naming, museum exhibit, etc."
+        },
+        "inscription": {
+          "type": "string",
+          "description": "Full text of the memorial inscription"
+        },
+        "dedicated_date": {
+          "type": "string",
+          "description": "Date memorial was erected or dedicated (YYYY or YYYY-MM-DD)"
+        },
+        "condition": {
+          "type": "string",
+          "enum": ["excellent", "good", "fair", "poor", "unknown"],
+          "description": "Current condition of the memorial"
+        },
+        "publicly_accessible": {
+          "type": "boolean",
+          "description": "Whether the memorial can be visited by the public"
+        },
+        "iwm_ref": {
+          "type": "string",
+          "description": "Imperial War Museum memorial reference number"
+        }
+      }
+    },
+
+    "photos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url", "caption"],
+        "properties": {
+          "url": {
+            "type": "string",
+            "description": "Relative path to image file in the data repo"
+          },
+          "caption": {
+            "type": "string"
+          },
+          "credit": {
+            "type": "string"
+          },
+          "date_taken": {
+            "type": "string",
+            "format": "date"
+          }
+        }
+      }
+    },
+
+    "sources": {
+      "type": "array",
+      "description": "Research sources and references",
+      "items": {
+        "type": "object",
+        "required": ["title"],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["web", "book", "archive", "interview", "cwgc", "iwm", "newspaper", "official_record"]
+          }
+        }
+      }
+    },
+
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "contributor": {
+          "type": "string",
+          "description": "Who contributed this record (GitHub username or name)"
+        },
+        "contributed_date": {
+          "type": "string",
+          "format": "date"
+        },
+        "last_updated": {
+          "type": "string",
+          "format": "date"
+        },
+        "data_quality": {
+          "type": "string",
+          "enum": ["research_grade", "community", "stub", "unverified"],
+          "description": "Quality tier: research_grade (CWGC/archive verified), community (local knowledge), stub (basic info only), unverified (needs checking)"
+        },
+        "web_suitability": {
+          "type": "string",
+          "enum": ["excellent", "good", "fair", "stub"],
+          "description": "How ready this entry is for the website"
+        }
+      }
+    },
+
+    "linked_data": {
+      "type": "object",
+      "description": "Schema.org compatible structured data for SEO",
+      "properties": {
+        "schema_type": {
+          "type": "string",
+          "const": "HistoricalEvent",
+          "description": "Schema.org type"
+        },
+        "same_as": {
+          "type": "array",
+          "items": { "type": "string", "format": "uri" },
+          "description": "URLs of authoritative pages about this event (CWGC, IWM, Wikipedia)"
+        }
+      }
+    },
+
+    "related_memorials": {
+      "type": "array",
+      "description": "IDs of related memorial records (e.g. mid-air collision involves two aircraft)",
+      "items": { "type": "string" }
+    },
+
+    "tags": {
+      "type": "array",
+      "description": "Searchable tags: aircraft type, nationality, county, etc.",
+      "items": { "type": "string" }
+    }
+  }
+}
