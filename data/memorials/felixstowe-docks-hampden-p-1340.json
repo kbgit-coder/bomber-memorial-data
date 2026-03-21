@@ -1,0 +1,23 @@
+{
+  "id": "felixstowe-docks-hampden-p-1340",
+  "title": "Felixstowe Docks P.1340 Memorial",
+  "location_name": "Felixstowe Docks, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-004",
+  "crash_date": "1940-06-04",
+  "aircraft_type": "Hampden P.1340",
+  "squadron": "44 (Rhodesia) Squadron",
+  "station": "Waddington",
+  "crew_summary": "3 killed (struck barrage balloon cable); pilot survived",
+  "memorial_type": "Waterside marker",
+  "sources": [
+    {
+      "title": "Geograph Suffolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

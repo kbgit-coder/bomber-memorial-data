@@ -1,0 +1,24 @@
+{
+  "id": "hameldown-x3054",
+  "title": "Hameldown Hampden Memorial",
+  "location_name": "Hameldown, Dartmoor, Devon (Dartmoor)",
+  "county": "Devon (Dartmoor)",
+  "country": "United Kingdom",
+  "region_code": "SW-001",
+  "crash_date": "1941-03-22",
+  "aircraft_type": "Hampden",
+  "serial_number": "X3054",
+  "squadron": "49 Squadron",
+  "crew_summary": "4 killed (Wilson, Lyon, Branes, Ellis); returning from operations over France",
+  "memorial_type": "Granite boulder incised with initials and squadron number; plaque added 1991",
+  "dedication_date": "Original wartime; plaque 1991",
+  "sources": [
+    {
+      "title": "warmemorialsonline.org.uk (memorial/98287); Legendary Dartmoor",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

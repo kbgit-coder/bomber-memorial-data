@@ -1,0 +1,23 @@
+{
+  "id": "kinder-scout-1-w5719",
+  "title": "Kinder Scout (1) Wellington Memorial",
+  "location_name": "Kinder Scout (1), Peak District (Derbyshire / South Pennines)",
+  "county": "Peak District (Derbyshire / South Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PD-005",
+  "crash_date": "1941-07-31",
+  "aircraft_type": "Wellington",
+  "serial_number": "W5719",
+  "squadron": "Bomber Command",
+  "crew_summary": "4 killed; 1 survived (Rear Gunner Sgt. Earl Tilley, thrown clear in turret when bombs exploded on impact)",
+  "memorial_type": "Small cross and plaque",
+  "sources": [
+    {
+      "title": "peakdistrictaircrashes.co.uk; pleszak.blog",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

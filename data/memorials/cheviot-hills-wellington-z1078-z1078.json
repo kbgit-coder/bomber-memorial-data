@@ -1,0 +1,23 @@
+{
+  "id": "cheviot-hills-wellington-z1078-z1078",
+  "title": "Cheviot Hills - Wellington Z1078 Wellington Memorial",
+  "location_name": "Cheviot Hills - Wellington Z1078, Northumberland",
+  "county": "Northumberland",
+  "country": "United Kingdom",
+  "region_code": "NE-002",
+  "crash_date": "1942-01-15",
+  "aircraft_type": "Wellington",
+  "serial_number": "Z1078",
+  "squadron": "RAF Snaith",
+  "crew_summary": "All killed (returning from Hamburg bombing mission)",
+  "memorial_type": "Crash site marker in Cheviot Hills",
+  "sources": [
+    {
+      "title": "Northumberland National Park / nelsam.org.uk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

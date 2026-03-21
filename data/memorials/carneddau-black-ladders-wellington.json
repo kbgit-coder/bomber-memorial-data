@@ -1,0 +1,22 @@
+{
+  "id": "carneddau-black-ladders-wellington",
+  "title": "Carneddau (Black Ladders) Wellington Memorial",
+  "location_name": "Carneddau (Black Ladders), Snowdonia",
+  "county": "Snowdonia",
+  "country": "United Kingdom",
+  "region_code": "WA-005",
+  "crash_date": "1942-07-19",
+  "aircraft_type": "Wellington",
+  "squadron": "27 OTU",
+  "crew_summary": "All killed (cross-country navigation training)",
+  "memorial_type": "Small cairn with wreckage nearby",
+  "sources": [
+    {
+      "title": "militaryaircraftcrashsites.blogspot.com",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

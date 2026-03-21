@@ -1,0 +1,22 @@
+{
+  "id": "kinder-scout-2-aircraft-polish-crew",
+  "title": "Kinder Scout (2) crew) Memorial",
+  "location_name": "Kinder Scout (2), Peak District (Derbyshire / South Pennines)",
+  "county": "Peak District (Derbyshire / South Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PD-006",
+  "crash_date": "1944-12-11",
+  "aircraft_type": "Aircraft (Polish crew)",
+  "squadron": "Polish Air Force",
+  "crew_summary": "Pilot Flt Lt. Aleksander Chelstowski killed",
+  "memorial_type": "Crash site marker; engine and panels remain",
+  "sources": [
+    {
+      "title": "peakdistrictaircrashes.co.uk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

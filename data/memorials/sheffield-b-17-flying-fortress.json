@@ -1,0 +1,24 @@
+{
+  "id": "sheffield-b-17-flying-fortress",
+  "title": "Sheffield Amigo\" Memorial",
+  "location_name": "Sheffield, Endcliffe Park (Mi Amigo Memorial), South Yorkshire",
+  "county": "South Yorkshire",
+  "country": "United Kingdom",
+  "region_code": "SY-001",
+  "crash_date": "1944-02-22",
+  "aircraft_type": "B-17 Flying Fortress 42-31322 \"Mi Amigo\"",
+  "squadron": "364th Bomber Squadron",
+  "station": "Chelveston (USAAF)",
+  "crew_summary": "10 USAAF crew killed",
+  "memorial_type": "Grove of 10 scarlet oak trees; pair of memorial plaques on large boulder",
+  "dedication_date": "30/11/1969",
+  "sources": [
+    {
+      "title": "Wikipedia; warmemorialsonline.org.uk (memorial/131121)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

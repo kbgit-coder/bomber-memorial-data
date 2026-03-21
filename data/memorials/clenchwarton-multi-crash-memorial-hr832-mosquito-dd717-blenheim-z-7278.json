@@ -1,0 +1,24 @@
+{
+  "id": "clenchwarton-multi-crash-memorial-hr832-mosquito-dd717-blenheim-z-7278",
+  "title": "Clenchwarton (multi-crash memorial) Halifax Memorial",
+  "location_name": "Clenchwarton (multi-crash memorial), Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-011",
+  "crash_date": "Various 1941-1945",
+  "aircraft_type": "6 aircraft commemorated including Stirling W.7473, Halifax",
+  "serial_number": "HR832, Mosquito DD717, Blenheim Z.7278",
+  "squadron": "218 Sqdn Marham",
+  "station": "405 Sqdn Gransden Lodge, 141 Sqdn West Raynham, 114 Sqdn West Raynham",
+  "crew_summary": "Multiple crews totalling 20+ killed",
+  "memorial_type": "Combined memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

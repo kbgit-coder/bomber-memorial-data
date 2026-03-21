@@ -1,0 +1,24 @@
+{
+  "id": "pocklington-ed393",
+  "title": "Pocklington Lancaster Memorial",
+  "location_name": "Pocklington, East Riding of Yorkshire",
+  "county": "East Riding of Yorkshire",
+  "country": "United Kingdom",
+  "region_code": "ERY-007",
+  "crash_date": "1943-11-26",
+  "aircraft_type": "Lancaster",
+  "serial_number": "ED393",
+  "squadron": "50 Squadron",
+  "station": "Skellingthorpe",
+  "crew_summary": "5 killed (2 survived injured); 2 civilians also killed; pilot Plt Off. Joseph Watson Thompson, DFM",
+  "memorial_type": "Memorial bench and crash site marker",
+  "sources": [
+    {
+      "title": "Geograph / IWM (memorial/99090)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

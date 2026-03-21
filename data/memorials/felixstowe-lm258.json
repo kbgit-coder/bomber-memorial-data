@@ -1,0 +1,24 @@
+{
+  "id": "felixstowe-lm258",
+  "title": "Felixstowe Lancaster Memorial",
+  "location_name": "Felixstowe, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-005",
+  "crash_date": "1944-08-25",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM258",
+  "squadron": "218 Squadron",
+  "station": "Methwold",
+  "crew_summary": "7 killed; pilot Flt Lt. Douglas C. Haggis",
+  "memorial_type": "Town hall plaque",
+  "sources": [
+    {
+      "title": "Geograph Suffolk / IWM (memorial/57032)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

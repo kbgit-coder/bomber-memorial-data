@@ -1,0 +1,23 @@
+{
+  "id": "tintwistle-knarr-pa411",
+  "title": "Tintwistle Knarr Lancaster Memorial",
+  "location_name": "Tintwistle Knarr, Bleaklow, Peak District (Derbyshire / South Pennines)",
+  "county": "Peak District (Derbyshire / South Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PD-002",
+  "crash_date": "20/12/1948 (post-war training)",
+  "aircraft_type": "Avro Lancaster",
+  "serial_number": "PA411",
+  "squadron": "RAF Lindholme",
+  "crew_summary": "All killed (night training flight)",
+  "memorial_type": "Crash site marker",
+  "sources": [
+    {
+      "title": "Wikipedia (Bleaklow)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

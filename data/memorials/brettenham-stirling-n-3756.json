@@ -1,0 +1,23 @@
+{
+  "id": "brettenham-stirling-n-3756",
+  "title": "Brettenham N.3756 Memorial",
+  "location_name": "Brettenham, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-002",
+  "crash_date": "1942-08-12",
+  "aircraft_type": "Stirling N.3756",
+  "squadron": "15 Squadron",
+  "station": "Wyton",
+  "crew_summary": "6 killed; 1 survivor (Flt Sgt. William E. Egri, DFM)",
+  "memorial_type": "Memorial marker",
+  "sources": [
+    {
+      "title": "Geograph Suffolk / IWM (memorial/13247)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

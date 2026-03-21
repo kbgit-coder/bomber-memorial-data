@@ -1,0 +1,23 @@
+{
+  "id": "staunton-in-the-vale-wellington-w-4270",
+  "title": "Staunton in the Vale W.4270 Memorial",
+  "location_name": "Staunton in the Vale, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-026",
+  "crash_date": "1943-02-18",
+  "aircraft_type": "Wellington W.4270",
+  "squadron": "61 Sqdn.",
+  "station": "Syerston",
+  "crew_summary": "7 killed including pilot WO2. Thomas Herbert Warne",
+  "memorial_type": "Memorial with interpretation board",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

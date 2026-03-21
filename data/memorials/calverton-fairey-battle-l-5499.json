@@ -1,0 +1,23 @@
+{
+  "id": "calverton-fairey-battle-l-5499",
+  "title": "Calverton L.5499 Memorial",
+  "location_name": "Calverton, Nottinghamshire",
+  "county": "Nottinghamshire",
+  "country": "United Kingdom",
+  "region_code": "NT-011",
+  "crash_date": "1940-10-13",
+  "aircraft_type": "Fairey Battle L.5499",
+  "squadron": "300 (Masovian) Squadron",
+  "station": "Swinderby",
+  "crew_summary": "4 Polish crew killed",
+  "memorial_type": "Polish Cross memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

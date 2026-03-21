@@ -1,0 +1,23 @@
+{
+  "id": "halifax-area-dk192",
+  "title": "Halifax area Halifax Memorial",
+  "location_name": "Halifax area, West Yorkshire",
+  "county": "West Yorkshire",
+  "country": "United Kingdom",
+  "region_code": "WY-001",
+  "crash_date": "1944-02-07",
+  "aircraft_type": "Halifax",
+  "serial_number": "DK192",
+  "squadron": "RAF Rufforth",
+  "crew_summary": "All killed (5 RCAF, 2 RAF); training flight in 10/10ths cloud",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "York Stories",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

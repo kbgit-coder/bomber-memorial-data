@@ -6,7 +6,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const REQUIRED_FIELDS = ['id', 'title', 'location_name', 'latitude', 'longitude'];
+const REQUIRED_FIELDS = ['id', 'title', 'location_name'];
+const RECOMMENDED_FIELDS = ['latitude', 'longitude'];
 const VALID_OPERATION_TYPES = ['Operational', 'Training', 'Ferry', 'Other'];
 const VALID_FATES = ['Killed', 'Survived', 'POW', 'Missing'];
 const VALID_MEMORIAL_TYPES = ['Stone memorial', 'Stone', 'Plaque', 'Cairn', 'Cross', 'None', 'Memorial at RAF Ossington site'];
@@ -37,6 +38,16 @@ files.forEach(file => {
     if (data[field] === undefined || data[field] === null || data[field] === '') {
       console.log(`  ERROR  ${file}: Missing required field "${field}"`);
       errors++;
+    }
+  });
+
+  // Check recommended fields
+  RECOMMENDED_FIELDS.forEach(field => {
+    if (data[field] === undefined || data[field] === null) {
+      if (data.data_quality !== 'Partial' && data.data_quality !== 'Stub') {
+        console.log(`  WARN   ${file}: Missing recommended field "${field}"`);
+        warnings++;
+      }
     }
   });
 

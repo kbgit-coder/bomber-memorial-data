@@ -1,0 +1,23 @@
+{
+  "id": "cotgrave-place-wellington-w-5365",
+  "title": "Cotgrave Place W.5365 Memorial",
+  "location_name": "Cotgrave Place, Nottinghamshire",
+  "county": "Nottinghamshire",
+  "country": "United Kingdom",
+  "region_code": "NT-012",
+  "crash_date": "1941-02-08",
+  "aircraft_type": "Wellington W.5365",
+  "squadron": "12 Squadron",
+  "station": "Tollerton",
+  "crew_summary": "7 killed including Plt Off. Robert Atkinson",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

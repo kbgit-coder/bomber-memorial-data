@@ -1,0 +1,24 @@
+{
+  "id": "salthouse-lm720",
+  "title": "Salthouse Lancaster Memorial",
+  "location_name": "Salthouse, Bard Hill, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-020",
+  "crash_date": "1945-01-15",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM720",
+  "squadron": "61 Squadron",
+  "station": "Skellingthorpe",
+  "crew_summary": "7 killed including Flg Off. William George Corewyn",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

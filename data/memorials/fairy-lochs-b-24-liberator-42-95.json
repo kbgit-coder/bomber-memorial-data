@@ -1,0 +1,22 @@
+{
+  "id": "fairy-lochs-b-24-liberator-42-95",
+  "title": "Fairy Lochs (USAAF) Memorial",
+  "location_name": "Fairy Lochs, near Gairloch, Highlands",
+  "county": "Highlands",
+  "country": "United Kingdom",
+  "region_code": "SC-001",
+  "crash_date": "1945-06-13",
+  "aircraft_type": "B-24 Liberator 42-95095 (USAAF)",
+  "squadron": "USAAF",
+  "crew_summary": "All killed",
+  "memorial_type": "Memorial plaque erected by families and friends; wreckage remains scattered around lochs",
+  "sources": [
+    {
+      "title": "Wikipedia (Fairy Lochs); Highland HER (MHG30841)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

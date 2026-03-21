@@ -1,0 +1,24 @@
+{
+  "id": "higher-shelf-stones-boeing-rb-29a-superf",
+  "title": "Higher Shelf Stones \"Overexposed\" Memorial",
+  "location_name": "Higher Shelf Stones, Bleaklow (B-29 \"Overexposed\"), Peak District (Derbyshire / South Pennines)",
+  "county": "Peak District (Derbyshire / South Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PD-001",
+  "crash_date": "1948-11-03",
+  "aircraft_type": "Boeing RB-29A Superfortress 44-61999 \"Overexposed\"",
+  "squadron": "USAF (post-war",
+  "station": "but iconic site)",
+  "crew_summary": "13 killed (11 crew + 2 passengers)",
+  "memorial_type": "Memorial plaque erected by servicemen from RAF Finningley, 1988; extensive wreckage remains including engine turbine",
+  "dedication_date": "1988",
+  "sources": [
+    {
+      "title": "Wikipedia (Bleaklow Bomber); peakdistrict.gov.uk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

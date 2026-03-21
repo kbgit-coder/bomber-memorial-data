@@ -1,0 +1,24 @@
+{
+  "id": "near-sheldon-village-w5795",
+  "title": "Near Sheldon village Wellington Memorial",
+  "location_name": "Near Sheldon village, Peak District (Derbyshire / South Pennines)",
+  "county": "Peak District (Derbyshire / South Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PD-003",
+  "crash_date": "1942-07-12",
+  "aircraft_type": "Wellington",
+  "serial_number": "W5795",
+  "squadron": "Bomber Command (test flight)",
+  "crew_summary": "4 servicemen + 1 civilian test observer killed",
+  "memorial_type": "Village memorial (Lancaster Bomber flypast conducted at 80th anniversary 2022)",
+  "dedication_date": "Modern",
+  "sources": [
+    {
+      "title": "Derbyshire Times; rolandmillward.com",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

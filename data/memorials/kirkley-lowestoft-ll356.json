@@ -1,0 +1,24 @@
+{
+  "id": "kirkley-lowestoft-ll356",
+  "title": "Kirkley (Lowestoft) Halifax Memorial",
+  "location_name": "Kirkley (Lowestoft), Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-008",
+  "crash_date": "1944-04-27",
+  "aircraft_type": "Halifax",
+  "serial_number": "LL356",
+  "squadron": "138 (SD) Squadron",
+  "station": "Tempsford",
+  "crew_summary": "7 killed; pilot Flt Sgt. George H. Williamson (RAAF)",
+  "memorial_type": "Bowls club memorial seat with plaque",
+  "sources": [
+    {
+      "title": "Geograph Suffolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

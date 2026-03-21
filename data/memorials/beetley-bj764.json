@@ -1,0 +1,24 @@
+{
+  "id": "beetley-bj764",
+  "title": "Beetley Wellington Memorial",
+  "location_name": "Beetley, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-003",
+  "crash_date": "1942-11-09",
+  "aircraft_type": "Wellington",
+  "serial_number": "BJ764",
+  "squadron": "425 Squadron",
+  "station": "Dishforth",
+  "crew_summary": "4 killed including Flt Sgt. Raymond Rogers Foltz",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dunbeath-short-sunderland-mk-",
+  "title": "Dunbeath Mk.III Memorial",
+  "location_name": "Dunbeath, Caithness, Highlands",
+  "county": "Highlands",
+  "country": "United Kingdom",
+  "region_code": "SC-004",
+  "crash_date": "1942-08-25",
+  "aircraft_type": "Short Sunderland Mk.III",
+  "squadron": "Coastal Command / Royal family flight",
+  "crew_summary": "14 of 15 killed including Prince George, Duke of Kent",
+  "memorial_type": "Memorial at Dunbeath",
+  "sources": [
+    {
+      "title": "Wikipedia (Dunbeath air crash)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial"
+}
