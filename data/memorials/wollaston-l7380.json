@@ -7,7 +7,7 @@
   "region_code": "NH-001",
   "crash_date": "1941-06-22",
   "aircraft_type": "Avro Manchester",
-  "serial_number": "L7380",
+  "serial_number": "L7314",
   "squadron": "207 Squadron",
   "station": "RAF Waddington",
   "crew_summary": "7 killed (friendly fire incident - shot down by RAF Beaufighter)",
@@ -20,7 +20,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "narrative": "This is one of the most tragic cases in the East Midlands — a friendly fire incident. On the night of 21-22 June 1941, seven Avro Manchester bombers of 207 Squadron took off from RAF Waddington to bomb the docks at Boulogne. L7314, piloted by 21-year-old Flying Officer Withers (a contemporary of the legendary Guy Gibson at 83 Squadron, Scampton), was returning at about 6,000 feet when it was attacked by a Beaufighter night fighter crewed by Pilot Officers Smith and Lusty, who had been scrambled to intercept reported enemy raiders. The Manchester was set ablaze and crashed near Poplars Farm, Wollaston. Some crew members attempted to escape the burning wreck, but part of the bomb load exploded before they could get clear. Nobody survived. Traces of only five bodies were recovered. The Beaufighter crew were subsequently court-martialled, and blame was also apportioned to the ground control station that had vectored them. The Avro Manchester itself was notoriously unreliable — only 200 were built before the type was replaced by the four-engined Lancaster — making its crews doubly vulnerable. F/O Withers held the DFC; Fl/Sgt Brown the DFM — both decorated men killed by their own side.",
   "crew": [
@@ -32,7 +32,12 @@
       "role": "Pilot",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed when the Manchester was shot down by a RAF Beaufighter night fighter in a tragic friendly fire incident. Part of the bomb load exploded before crew could escape the burning wreck.",
+      "bio": "Aged 21, holder of the DFC. A contemporary of the legendary Guy Gibson at nearby 83 Squadron, Scampton. Killed by friendly fire.",
+      "decorations": [
+        "DFC"
+      ]
     },
     {
       "rank": "Sgt",
@@ -41,7 +46,10 @@
       "role": "2nd Pilot",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the friendly fire shootdown and subsequent explosion.",
+      "bio": "Second pilot serving with the RAF.",
+      "decorations": []
     },
     {
       "rank": "Fl/Sgt",
@@ -50,7 +58,12 @@
       "role": "Observer",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the friendly fire shootdown. A decorated airman killed by his own side.",
+      "bio": "Flight Sergeant and observer, holder of the DFM. One of two decorated airmen in the crew, both killed by friendly fire.",
+      "decorations": [
+        "DFM"
+      ]
     },
     {
       "rank": "Fl/Sgt",
@@ -59,7 +72,10 @@
       "role": "W/Op",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the friendly fire shootdown.",
+      "bio": "Flight Sergeant serving as wireless operator.",
+      "decorations": []
     },
     {
       "rank": "Fl/Sgt",
@@ -68,7 +84,10 @@
       "role": "W/Op",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the friendly fire shootdown.",
+      "bio": "Flight Sergeant serving as wireless operator.",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -77,7 +96,10 @@
       "role": "W/Op",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the friendly fire shootdown.",
+      "bio": "Sergeant serving as wireless operator.",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -86,7 +108,10 @@
       "role": "Air Gunner",
       "nationality": "Canadian",
       "burial_location": "Lincolnshire (near base)",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the friendly fire shootdown. The only Canadian in the crew.",
+      "bio": "Canadian air gunner serving with the RCAF. The only non-British crew member.",
+      "decorations": []
     }
   ],
   "cause_of_loss": "Friendly fire — shot down by RAF Beaufighter night fighter",
@@ -171,5 +196,20 @@
       "date_retrieved": "2026-03-23",
       "still_live": true
     }
-  ]
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Daventry & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
+    },
+    {
+      "org_name": "Wollaston Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/No._207_Squadron_RAF.png",
+  "squadron_motto": "Always prepared"
 }

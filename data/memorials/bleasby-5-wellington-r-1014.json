@@ -70,5 +70,21 @@
       "date_retrieved": "2026-03-23",
       "still_live": true
     }
-  ]
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Southwell Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Bleasby Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep",
+      "website": "https://www.bleasbycommunity.uk"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/304_Dywizjon_Bombowy.png",
+  "squadron_motto": "Land of Silesia"
 }

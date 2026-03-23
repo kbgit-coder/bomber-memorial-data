@@ -95,5 +95,20 @@
       "nationality": "British",
       "fate": "Killed"
     }
-  ]
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Gainsborough & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Bransby Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/No._49_Squadron_RAF_badge.jpg",
+  "squadron_motto": "Beware of the dog"
 }

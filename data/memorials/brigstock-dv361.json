@@ -68,5 +68,20 @@
       "rank": "Sgt",
       "fate": "Killed"
     }
-  ]
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Daventry & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
+    },
+    {
+      "org_name": "Brigstock Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/No._207_Squadron_RAF.png",
+  "squadron_motto": "Always prepared"
 }

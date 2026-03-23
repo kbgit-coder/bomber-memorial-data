@@ -81,5 +81,20 @@
       "nationality": "British",
       "fate": "Killed"
     }
-  ]
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Holt Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Briston Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/No._12_Squadron_RAF.png",
+  "squadron_motto": "Leads the Field"
 }

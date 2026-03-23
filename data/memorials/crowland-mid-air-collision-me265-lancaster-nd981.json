@@ -53,5 +53,20 @@
       "date_retrieved": "2026-03-23",
       "still_live": true
     }
-  ]
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Spalding Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Crowland Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/No._97_Squadron_RAF_badge.png",
+  "squadron_motto": "Achieve your aim"
 }

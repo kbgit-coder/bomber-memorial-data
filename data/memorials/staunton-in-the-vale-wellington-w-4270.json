@@ -23,7 +23,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "narrative": "Lancaster W4270 had been airborne for nearly seven hours on a long cross-country training exercise when disaster struck. The aircraft was brand new to 61 Squadron at RAF Syerston. At 22:56 hours, a connecting rod broke on the inner starboard engine, sparking a fire the crew could not extinguish. With the landing gear in a lowered position — possibly deployed in preparation for an emergency landing — the aircraft became uncontrollable and crashed into farmland northwest of Staunton-in-the-Vale church. All seven crew were killed instantly. The pilot, Sgt Thomas \"Herb\" Warne from Saskatchewan, was the oldest and most experienced at just 23, despite having only 15 hours of night flying on Lancasters. The youngest, flight engineer George Hitchon from Padiham, was 19. Three Commonwealth airmen were buried together at Newark Cemetery; the other four were returned to their home towns across Britain. The crash site lies in the agricultural lowlands south of Newark, within sight of the Lincolnshire border — territory that felt safe and familiar to crews who flew from Syerston daily, making the training loss especially poignant.",
   "crew": [
@@ -36,7 +36,11 @@
       "nationality": "Canadian",
       "burial_location": "Newark-upon-Trent Cemetery, Sec. P, Grave 307",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "fate_detail": "Killed instantly when the Lancaster crashed into farmland after an engine fire made the aircraft uncontrollable. Had only 15 hours of night flying on Lancasters.",
+      "bio": "Canadian pilot from Saskatchewan serving with the RCAF, aged 23. The most experienced crew member despite having only 15 hours night flying on Lancasters.",
+      "hometown": "Saskatchewan, Canada",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -46,7 +50,11 @@
       "role": "Flight Engineer",
       "nationality": "British",
       "burial_location": "Padiham Churchyard, Row 3, Div. 7, Grave 5",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash. The youngest crew member at 19.",
+      "bio": "Flight engineer from Padiham, Lancashire, aged 19. The youngest of the crew.",
+      "hometown": "Padiham, Lancashire",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -56,7 +64,10 @@
       "role": "Observer",
       "nationality": "British",
       "burial_location": "Wembdon Churchyard, Sec. C, Row A, Grave 14",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash.",
+      "bio": "Observer serving with the RAF, aged 22.",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -66,7 +77,10 @@
       "role": "W/Op Air Gunner",
       "nationality": "British",
       "burial_location": "Brandon & Byshottles Cemetery, Grave 46",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash.",
+      "bio": "Wireless operator/air gunner serving with the RAF, aged 21.",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -76,7 +90,10 @@
       "role": "W/Op Air Gunner",
       "nationality": "British",
       "burial_location": "Cambusnethan Cemetery, Sec. A, Grave 824",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash.",
+      "bio": "Wireless operator/air gunner serving with the RAF, aged 22.",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -86,7 +103,10 @@
       "role": "Air Gunner",
       "nationality": "British",
       "burial_location": "Matlock Cemetery, Plot 1, Row 12, Grave 15",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash.",
+      "bio": "Air gunner serving with the RAF, aged 21.",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -96,7 +116,10 @@
       "role": "Air Gunner",
       "nationality": "British",
       "burial_location": "Leusdon Churchyard, Devon",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash.",
+      "bio": "Air gunner serving with the RAF, aged 22. Buried in Leusdon Churchyard, Devon.",
+      "decorations": []
     }
   ],
   "latitude": 52.981,
@@ -150,5 +173,20 @@
       "date_retrieved": "2026-03-23",
       "still_live": true
     }
-  ]
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Grantham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Staunton in the Vale Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/No._61_Squadron_RAF.png",
+  "squadron_motto": "Thundering through the clear air"
 }

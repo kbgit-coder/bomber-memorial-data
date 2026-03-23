@@ -18,7 +18,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "narrative": "The B-17 \"Heavenly Body\" was on a night navigation training flight from its home base at Eye in Suffolk — a long way from the operational missions over Germany that the 490th Bomb Group normally flew. Twelve men were aboard, including three passengers along for the ride. Over NW Leicestershire, while executing a turn near Nailstone, the nose dropped and the port wing struck the ground. The aircraft was completely destroyed by fire and explosion. All twelve men were killed. Five were subsequently buried at Cambridge American Cemetery at Madingley, near Cambridge; the other seven were repatriated to the United States after the war. This was the single deadliest crash in Leicestershire during the war. The \"Heavenly Body\" name and the fact that these men died on a training flight far from their base — not in combat — adds to the tragedy.",
   "crew": [
@@ -28,7 +28,10 @@
       "role": "Pilot",
       "nationality": "American",
       "burial_location": "5 buried at Cambridge American Cemetery; 7 repatriated to USA",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed when the B-17 struck a tree during a low-altitude turn near Nailstone and exploded. All twelve aboard died.",
+      "bio": "First Lieutenant and pilot of the B-17 'Heavenly Body', 490th Bomb Group.",
+      "decorations": []
     },
     {
       "rank": "1st Lt",
@@ -36,7 +39,10 @@
       "role": "Co-pilot",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion at Nailstone.",
+      "bio": "First Lieutenant and co-pilot of the 'Heavenly Body'.",
+      "decorations": []
     },
     {
       "rank": "2nd Lt",
@@ -44,7 +50,10 @@
       "role": "Navigator",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Second Lieutenant and navigator.",
+      "decorations": []
     },
     {
       "rank": "2nd Lt",
@@ -52,7 +61,10 @@
       "role": "Bomb Aimer",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Second Lieutenant and bomb aimer.",
+      "decorations": []
     },
     {
       "rank": "T/Sgt",
@@ -60,7 +72,10 @@
       "role": "Flight Engineer",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Technical Sergeant and flight engineer.",
+      "decorations": []
     },
     {
       "rank": "T/Sgt",
@@ -68,7 +83,10 @@
       "role": "Radio Operator",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Technical Sergeant and radio operator.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -76,7 +94,10 @@
       "role": "Ball Turret Gunner",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Staff Sergeant and ball turret gunner.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -84,7 +105,10 @@
       "role": "Waist Gunner",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Staff Sergeant and waist gunner.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -92,7 +116,10 @@
       "role": "Tail Gunner",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Staff Sergeant and tail gunner.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -100,7 +127,10 @@
       "role": "Passenger",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Was a passenger along for the night navigation exercise.",
+      "bio": "Staff Sergeant, a passenger who was not part of the regular crew.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -108,7 +138,10 @@
       "role": "Passenger",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. One of three passengers aboard.",
+      "bio": "Staff Sergeant, a passenger.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -116,7 +149,10 @@
       "role": "Passenger",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. One of three passengers aboard.",
+      "bio": "Staff Sergeant, a passenger.",
+      "decorations": []
     }
   ],
   "cause_of_loss": "Nose dropped during turn; port wing struck ground; destroyed by fire and explosion",
@@ -185,5 +221,20 @@
       "date_retrieved": "2026-03-23",
       "still_live": true
     }
-  ]
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Leicester Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/leicestershire-rutland/"
+    },
+    {
+      "org_name": "Nailstone Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/No._49_Squadron_RAF_badge.jpg",
+  "squadron_motto": "Beware of the dog"
 }

@@ -86,5 +86,20 @@
       "role": "Rear Gunner",
       "fate": "Killed"
     }
-  ]
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Diss & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Bressingham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/RNZAF_75_Sqn_Badge.png",
+  "squadron_motto": "For ever and ever be strong"
 }
