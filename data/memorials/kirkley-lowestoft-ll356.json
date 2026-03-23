@@ -19,6 +19,77 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On 27 April 1944, Halifax LL356 of the highly secretive 138 (Special Duties) Squadron crashed at Kirkley, a suburb of Lowestoft on the Suffolk coast. No. 138 Squadron was one of RAF's clandestine units, based at Tempsford in Bedfordshire, tasked with dropping agents, supplies, and equipment to resistance movements across occupied Europe. Their operations were hazardous and rarely publicised. The circumstances of this crash -- with the aircraft coming down on the Suffolk coast, far from its Bedfordshire base -- suggest the Halifax may have been returning from or departing for a special operations mission. The pilot, Flight Sergeant George Herbert Williamson of the Royal Australian Air Force, and all six other crew members were killed.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "George Herbert Williamson",
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed"
+    },
+    {
+      "name": "Six additional crew",
+      "role": "Various",
+      "fate": "All killed"
+    }
+  ],
+  "latitude": 52.4578,
+  "longitude": 1.7387,
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Plaque on memorial seat | | Location | Kirkley Bowls Club, Lowestoft, Suffolk | | Access | Publicly accessible |",
+  "maintainer": {
+    "organisation": "Lowestoft Town Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/williamson-george.html",
+      "summary": "Detailed page on F/Sgt George Herbert Williamson RAAF (aged 29) and the crew of Halifax V LL356 (coded NF-U). The aircraft departed Tempsford at 23:10 on 27 April 1944 to drop supplies to Belgian resistance. It was observed being hit by German flak over Eindhoven in southern Holland. The crew likely attempted to return to base but crashed or ditched, with the aircraft listed as 'Missing on Operations'. The crew comprised airmen from the RAAF, RAFVR, and RCAF.",
+      "key_details": [
+        "Departed Tempsford at 23:10",
+        "Mission to drop supplies to Belgian resistance",
+        "Hit by flak over Eindhoven, Holland",
+        "Listed as Missing on Operations",
+        "Williamson aged 29, RAAF"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "MHHV (Military History and Heritage Victoria)",
+      "original_url": "http://www.mhhv.org.au/?p=1132",
+      "summary": "Australian military heritage article documenting the crew of Halifax LL356 as a 'Special' Halifax bomber crew from 138 Squadron. Provides context on the squadron's clandestine SOE operations and the multinational nature of the crew.",
+      "key_details": [
+        "SOE operations context provided",
+        "Multinational crew documented"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://aviation-safety.net/wikibase/50539",
+      "summary": "ASN records the accident of Halifax Mk V LL356 on 28 April 1944, confirming loss details and crew complement.",
+      "key_details": [
+        "ASN accident record confirmed",
+        "Date recorded as 28 April 1944 (post-midnight mission)"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Roll of Honour",
+      "original_url": "http://www.roll-of-honour.com/Bedfordshire/TempsfordHailfaxBomberLL356NFU.html",
+      "summary": "The Roll of Honour website lists all seven crew members of Halifax LL356 NF-U who were killed on the special operations mission. A memorial seat with plaque was dedicated at Kirkley Bowls Club, Lowestoft, with support from the RAFA Lowestoft Branch.",
+      "key_details": [
+        "All seven crew listed by name",
+        "Memorial seat with RAFA support"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

@@ -21,5 +21,47 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "data_quality": "Partial",
+  "latitude": 52.16282422252873,
+  "longitude": 0.11548696563955149,
+  "maintainer": {
+    "organisation": "Somersham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264514/",
+      "summary": "War Memorials Online listing for the memorial plaque to those killed in the crash of 156 Squadron Wellington X3811. Records the plaque commemorating the 11 civilian casualties of the crash.",
+      "key_details": [
+        "Memorial plaque for civilian casualties",
+        "156 Squadron Wellington"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph Britain and Ireland",
+      "original_url": "https://www.geograph.org.uk/photo/6420151",
+      "summary": "Photographic record of the memorial plaque to eleven Somersham civilians killed when Wellington X3811 crashed into cottages next to Whitehall in October 1942. The crew bailed out safely but the uncontrolled aircraft struck residential buildings.",
+      "key_details": [
+        "Crashed into cottages next to Whitehall",
+        "Crew bailed out safely before crash",
+        "Bad weather and severe icing caused crew to lose control"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph Britain and Ireland (Whitehall)",
+      "original_url": "https://www.geograph.org.uk/photo/6420154",
+      "summary": "Photograph of Whitehall, Somersham, now a school, which narrowly escaped destruction when the Wellington crashed into adjacent cottages. Provides visual context of the crash site location.",
+      "key_details": [
+        "Whitehall building narrowly missed",
+        "Building now used as a school"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

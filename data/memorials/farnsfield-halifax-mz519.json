@@ -115,6 +115,75 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Complete"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "memorial_details": "Farnsfield residents Jack Wright and Frank Reynolds campaigned in the early 1990s to establish a permanent memorial. A stone memorial was dedicated on 6 July 1994 (50th anniversary) by Air Marshal Sir John Curtis, himself a former 578 Squadron pilot. Seven Nottinghamshire oaks (one per crew member) and two Canadian redwoods (for Godin) were planted. Parfitt Road on the village outskirts bears a second memorial plaque. The crew's names are read at every Remembrance Sunday service. The Farnsfield Memorial Trust maintains the site. A Nottinghamshire County Council walking trail includes the memorial.",
+  "maintainer": {
+    "organisation": "Farnsfield Parish Council",
+    "website": "https://www.farnsfield-pc.gov.uk",
+    "maintainer_type": "parish-council",
+    "notes": "Memorial maintained by Farnsfield Memorial Trust in cooperation with the parish council. The Trust maintains the stone memorial and surrounding oak trees."
+  },
+  "what3words": "deeply.knowledge.farmer",
+  "local_contacts": [
+    {
+      "org_name": "Farnsfield & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Annual Remembrance Sunday service at the memorial",
+      "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+    },
+    {
+      "org_name": "Farnsfield Parish Council",
+      "org_type": "parish_council",
+      "role": "Maintains memorial site with Farnsfield Memorial Trust",
+      "website": "https://www.farnsfield-pc.gov.uk"
+    },
+    {
+      "org_name": "Farnsfield History Group",
+      "org_type": "history_society",
+      "role": "Local history research and memorial documentation"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/parfitt-reginald.html",
+      "summary": "Detailed crew biographies and operational history for P/O Parfitt and crew. Includes CWGC records, squadron postings, and accounts from the 578 Squadron Association.",
+      "key_details": "Confirms this was Parfitt's 23rd operational mission. Crew had completed training at 1660 HCU Swinderby before posting to 578 Squadron at Burn.",
+      "date_retrieved": "2026-03-22",
+      "still_live": true
+    },
+    {
+      "source_site": "578 Squadron Association",
+      "original_url": "http://www.578squadron.org.uk/memorials/farnsfield.html",
+      "summary": "Squadron records of the loss of Halifax MZ519 LK-U on 6 July 1944. Includes operational details of the V-1 site attack and eyewitness accounts from Farnsfield residents.",
+      "key_details": "Local witnesses described the aircraft passing over with its port wing fully ablaze. The crew's deliberate decision to avoid the village is corroborated by the crash trajectory.",
+      "date_retrieved": "2026-03-22",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/32217",
+      "summary": "Imperial War Museum register entry for the Halifax MZ519 memorial at Farnsfield. Records the stone memorial dedicated on 6 July 1994, the 50th anniversary of the crash, by Air Marshal Sir John Curtis.",
+      "key_details": "Memorial reference 32217. Dedicated by Air Marshal Sir John Curtis, himself a former 578 Squadron pilot. Seven Nottinghamshire oaks and two Canadian redwoods planted.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/92115",
+      "summary": "War Memorials Online listing for the Halifax MZ519 memorial at Farnsfield, Nottinghamshire. Documents the memorial's condition as good and provides details of the crew commemorated.",
+      "key_details": "Memorial reference 92115. Condition recorded as good. Lists all seven crew members.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/midlands/handley-page-halifax-mz519-fansfield/",
+      "summary": "Detailed crash investigation record for Halifax MZ519 LK-U. Documents the anti-aircraft damage sustained over Dieppe and the crew's attempt to return to RAF Burn with a spreading engine fire.",
+      "key_details": "Aircraft attacked V-1 launch sites at Croixdalle. Heavily damaged by flak over Dieppe. Local witnesses saw the aircraft pass with its wing ablaze. Crash site at Riddings Farm.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

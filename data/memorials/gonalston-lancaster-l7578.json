@@ -15,7 +15,7 @@
   "operation_type": "Training",
   "operation_target": "Combined navigation and bombing exercise",
   "cause_of_loss": "Suspected parachute harness entangled in controls; aircraft dived from 8,000 ft",
-  "narrative": "Lancaster L7578 was historically significant — originally built as a Manchester bomber in 1940, later converted to a Lancaster. It had served with Squadrons 97, 207, 83, and multiple Conversion Units. Notably, it was the aircraft used by Wing Commander John Nettleton VC for training prior to the famous Augsburg Raid. On 26 May 1944, P/O Sanderson's crew took off for a training exercise. The aircraft climbed to 8,000 feet, then suddenly dived into the ground at Gonalston. One theory suggests a parachute harness became entangled in the controls. All seven were buried together in a collective grave at Newark Cemetery.",
+  "narrative": "Lancaster L7578 was a historically significant aircraft — originally built as a Manchester bomber in 1940, later converted to a Lancaster. It had served with Squadrons 97, 207, 83, and Conversion Units 1654 and 1668 before arriving at 5 LFS. Notably, it was the aircraft used by Wing Commander John Nettleton VC for training prior to the famous Augsburg Raid. On 26 May 1944, P/O Sanderson's crew took off for a training exercise. The aircraft climbed to 8,000 feet, then suddenly dived into the ground at Gonalston. One theory suggests a parachute harness became entangled in the controls. All seven were buried together in a collective grave at Newark Cemetery. Eyewitnesses Arthur Knowles (later 91) and Kath Yates (85) attended a 75th anniversary memorial service in 2019, led by the Vice Lord-Lieutenant of Nottinghamshire and the Royal Canadian Air Force.",
   "crew": [
     {
       "rank": "P/O",
@@ -107,9 +107,46 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/27204",
       "type": "database"
+    },
+    {
+      "title": "Aircrew Remembered - P/O Sanderson, Lancaster L7578",
+      "url": "https://aircrewremembered.com/sanderson-george.html",
+      "type": "website"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Complete"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "maintainer": {
+    "organisation": "Gonalston Parish Meeting",
+    "website": "https://gonalston.parish.uk",
+    "maintainer_type": "parish-council",
+    "notes": "Maintained by local community. Gonalston is a small parish with a parish meeting rather than a full council."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/sanderson-george.html",
+      "summary": "Comprehensive page on P/O George Benjamin Sanderson and crew of Lancaster L7578 RC-L, 5 Lancaster Finishing School. The aircraft dived from 8,000 feet at 22:15 on 26 May 1944, crashing at Wood Barn near Gonalston. All seven crew killed.",
+      "key_details": "Lancaster L7578 was historically significant, originally built as a Manchester in 1940 and converted. Used by Wing Commander John Nettleton VC for training before the Augsburg Raid. Possible cause was parachute harness entangled in controls.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/27204",
+      "summary": "Imperial War Museum register entry for the Lancaster L7578 memorial at Gonalston. Stone memorial dedicated in 2010 commemorating all seven crew members.",
+      "key_details": "Memorial reference 27204. Dedicated 2010. All seven crew buried in collective Grave 309, Section F, Newark Cemetery.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Thurgarton History",
+      "original_url": "http://thurgartonhistory.co.uk/2011/08/lancaster-bomber-l7578/",
+      "summary": "Local history article about Lancaster L7578, detailing the crash at Gonalston and the aircraft's distinguished service record with multiple squadrons before arriving at 5 LFS Syerston.",
+      "key_details": "Aircraft served with 97, 207, 83 Squadrons and Conversion Units 1654 and 1668 before 5 LFS. Eyewitnesses Arthur Knowles and Kath Yates attended the 75th anniversary service in 2019.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

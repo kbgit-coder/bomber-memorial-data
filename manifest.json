@@ -1,0 +1,39 @@
+{
+  "version": "2.1",
+  "generated": "2026-03-23T15:43:13.717130",
+  "total_memorials": 208,
+  "enrichment_date": "2026-03-23",
+  "enrichment_notes": "All 208 memorials enriched with external_narratives from 50+ heritage sources",
+  "total_external_narratives": 679,
+  "top_sources": [
+    "IWM War Memorials Register",
+    "War Memorials Online",
+    "Aircrew Remembered",
+    "Aviation Safety Network",
+    "Peak District Air Accident Research",
+    "TracesOfWar.com",
+    "Wikipedia",
+    "Yorkshire Aircraft",
+    "American Air Museum",
+    "CWGC"
+  ],
+  "schema_version": "v2.1",
+  "data_quality_distribution": {
+    "Partial": 137,
+    "Complete": 55,
+    "Stub": 16
+  },
+  "country_distribution": {
+    "United Kingdom": 192,
+    "Belgium": 2,
+    "Canada": 2,
+    "Netherlands": 3,
+    "France": 2,
+    "Germany": 2,
+    "Slovenia": 1,
+    "New Zealand": 1,
+    "Australia": 1,
+    "Japan": 1,
+    "United States": 1
+  }
+}

@@ -19,5 +19,29 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "data_quality": "Partial",
+  "latitude": 52.64229672732832,
+  "longitude": 1.0195740487091567,
+  "maintainer": {
+    "organisation": "Stow Bedon and Breckles Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101031",
+      "summary": "Imperial War Museums register entry for the memorial to the crew of Blenheim V5851 at Stow Bedon, Norfolk. Records the crash of the 21 Squadron aircraft three miles south of its base at RAF Watton.",
+      "key_details": "Crew: Sgt F.G.B. Heron (pilot, RCAF, age 20), F/Sgt G.D. Maluish (observer, RCAF, age 23), Sgt G.E. Step (air gunner, RAF, age 20). An eyewitness reported the pilot deliberately put the nose down to avoid hitting a nearby house.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Norfolk Heritage Explorer",
+      "original_url": "https://www.heritage.norfolk.gov.uk/record-details?MNF46398-Bristol-Blenheim-crash-site=",
+      "summary": "Norfolk County Council heritage record for the Bristol Blenheim crash site at Stow Bedon. Catalogued as a heritage monument with location details and basic incident information.",
+      "key_details": "Crash site formally recorded in the Norfolk Historic Environment Record. Aircraft crashed three miles south of RAF Watton.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

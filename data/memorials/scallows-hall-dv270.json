@@ -20,5 +20,39 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "data_quality": "Partial",
+  "latitude": 53.323276060572525,
+  "longitude": -0.3349012117153135,
+  "maintainer": {
+    "organisation": "Wold Newton Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "http://aircrewremembered.com/oliver-francis.html",
+      "summary": "Detailed crew page for 101 Squadron Lancaster III DV270 SR-E piloted by F/O Francis Edward Oliver, aged 21. The aircraft took off on a cross-country training flight and emerged from low cloud, hitting treetops at Binbrook Hall before crashing in Scallows Wood, just missing Scallows Hall.",
+      "key_details": [
+        "Aircraft code SR-E",
+        "F/O Oliver aged 21",
+        "Hit treetops at Binbrook Hall in low cloud",
+        "Crashed in Scallows Wood",
+        "Farm foreman Sidney Smith tried to drag pilot from cockpit",
+        "Crew ages ranged from 19 to 30"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "101 Squadron Association",
+      "original_url": "https://101squadronassociation.org.uk/101-squadron/memorials/",
+      "summary": "101 Squadron Association memorials page listing the DV270 crash memorial among the squadron's many commemorated losses. Provides context within the broader pattern of 101 Squadron losses during the war.",
+      "key_details": [
+        "Listed on 101 Squadron Association memorials page",
+        "Part of extensive squadron loss records"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

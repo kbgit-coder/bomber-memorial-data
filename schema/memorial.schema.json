@@ -67,6 +67,11 @@
           "type": "string",
           "description": "How to find the memorial from the nearest road or landmark"
         },
+        "what3words": {
+          "type": "string",
+          "description": "What3Words address for precise memorial location (e.g. 'filled.count.soap')",
+          "pattern": "^[a-z]+\\.[a-z]+\\.[a-z]+$"
+        },
         "nearest_airfield": {
           "type": "string",
           "description": "RAF station the aircraft was based at or nearest to crash"
@@ -238,6 +243,47 @@
         "iwm_ref": {
           "type": "string",
           "description": "Imperial War Museum memorial reference number"
+        },
+        "local_contacts": {
+          "type": "array",
+          "description": "Local organisations connected to this memorial — who maintains it, who knows the story",
+          "items": {
+            "type": "object",
+            "required": ["org_name", "org_type"],
+            "properties": {
+              "org_name": {
+                "type": "string",
+                "description": "Organisation name (e.g. 'Farnsfield & District Royal British Legion')"
+              },
+              "org_type": {
+                "type": "string",
+                "enum": ["british_legion", "parish_council", "history_society", "museum", "church", "school", "veterans_group", "private_individual", "other"],
+                "description": "Type of local organisation"
+              },
+              "role": {
+                "type": "string",
+                "description": "Their connection to the memorial (e.g. 'maintains memorial', 'holds annual service', 'original fundraiser')"
+              },
+              "contact_name": {
+                "type": "string",
+                "description": "Contact person if known and consented"
+              },
+              "contact_email": {
+                "type": "string",
+                "format": "email",
+                "description": "Contact email if public or consented"
+              },
+              "contact_phone": {
+                "type": "string",
+                "description": "Contact phone if public or consented"
+              },
+              "website": {
+                "type": "string",
+                "format": "uri",
+                "description": "Organisation website or social media page"
+              }
+            }
+          }
         }
       }
     },
@@ -329,6 +375,43 @@
           "type": "array",
           "items": { "type": "string", "format": "uri" },
           "description": "URLs of authoritative pages about this event (CWGC, IWM, Wikipedia)"
+        }
+      }
+    },
+
+    "external_narratives": {
+      "type": "array",
+      "description": "Stories and details aggregated from other sites — the 'one place' for all information about this memorial",
+      "items": {
+        "type": "object",
+        "required": ["source_site", "original_url"],
+        "properties": {
+          "source_site": {
+            "type": "string",
+            "description": "Name of the source site (e.g. 'Aircrew Remembered', 'BBC WW2 People's War', 'Bomber Command Museum')"
+          },
+          "original_url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Direct URL to the original page"
+          },
+          "summary": {
+            "type": "string",
+            "description": "Brief summary or key excerpt (respect copyright — summarise, don't copy)"
+          },
+          "key_details": {
+            "type": "string",
+            "description": "Any unique facts or details this source adds that others don't have"
+          },
+          "date_retrieved": {
+            "type": "string",
+            "format": "date",
+            "description": "When this was last checked/retrieved (for freshness tracking)"
+          },
+          "still_live": {
+            "type": "boolean",
+            "description": "Whether the original URL was still accessible at date_retrieved"
+          }
         }
       }
     },

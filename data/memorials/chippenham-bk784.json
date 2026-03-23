@@ -21,5 +21,35 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "data_quality": "Partial",
+  "latitude": 52.16649840252392,
+  "longitude": 0.22847096388490734,
+  "maintainer": {
+    "organisation": "Chippenham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63962",
+      "summary": "Imperial War Museums register entry for the Stirling Bomber BK784 crash site memorial at Chippenham, Cambridgeshire. A stone tablet set into the ground near the crash site on private farmland off Badlingham Road commemorates the seven crew who died on 23 May 1944.",
+      "key_details": [
+        "IWM memorial reference 63962",
+        "Stone tablet on private farmland off Badlingham Road",
+        "Crew names: Aston, Eggbeer, McCrory, Pearce, Sharpen, Walley, Whyte"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Roll of Honour",
+      "original_url": "https://www.roll-of-honour.com/Cambridgeshire/Chippenham.html",
+      "summary": "Roll of Honour entry for Chippenham, Cambridgeshire, including the crew of Stirling BK784 from 90 Squadron who were killed in the crash on 23 May 1944.",
+      "key_details": [
+        "All seven crew listed on local roll of honour"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

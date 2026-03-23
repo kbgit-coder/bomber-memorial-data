@@ -19,6 +19,61 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On 25 August 1944, Lancaster LM258 of 218 (Gold Coast) Squadron crashed in the Felixstowe area of Suffolk. The aircraft was based at RAF Methwold in Norfolk and all seven crew members, led by Flight Lieutenant Douglas Haggis, were killed. The memorial to this crew is located on Felixstowe Town Hall, reflecting the close connection between the Suffolk coastal town and the bomber crews who lost their lives in its vicinity during the war.",
+  "crew": [
+    {
+      "rank": "F/Lt",
+      "name": "Douglas Charles Haggis",
+      "role": "Pilot",
+      "fate": "Killed"
+    },
+    {
+      "name": "Six additional crew",
+      "role": "Various",
+      "fate": "All killed"
+    }
+  ],
+  "latitude": 51.9569,
+  "longitude": 1.3474,
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial plaque on Felixstowe Town Hall | | Location | Felixstowe Town Hall, Suffolk | | Access | Publicly accessible |",
+  "maintainer": {
+    "organisation": "Felixstowe Town Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/57032",
+      "summary": "Imperial War Museum register entry for the Lancaster LM258 memorial at Felixstowe Town Hall. Records the granite memorial unveiled in 2001 to commemorate the seven crew of 218 (Gold Coast) Squadron.",
+      "key_details": "Memorial reference 57032. Granite memorial unveiled at Felixstowe Town Hall in 2001.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Felixstowe Town Council",
+      "original_url": "https://felixstowe.gov.uk/80th-anniversary-of-lancaster-bomber/",
+      "summary": "Felixstowe Town Council announcement of the 80th anniversary commemoration of Lancaster LM258. The aircraft was struck by flak near St Omer returning from a V-1 site attack at Vincly, France, and crashed into the sea near the town's New Pier on 25 August 1944.",
+      "key_details": "Aircraft attempted to reach RAF Woodbridge emergency landing ground. Witnessed circling Felixstowe with undercarriage lowered before crashing into the sea. Pilot Flt Lt Doug Haggis (age 25) was washed up at Fagbury Beach on 1 September 1944.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC / For Evermore",
+      "original_url": "https://www.cwgc.org/stories/stories/flying-officer-charles-bryce-oxenham-424063-royal-new-zealand-air-force-218-gold-coast-squadron/",
+      "summary": "CWGC story of F/O Charles Bryce Oxenham, RNZAF bomb aimer aboard Lancaster LM258. Oxenham was 20 years old and from New Zealand, one of many Commonwealth airmen serving with 218 Squadron.",
+      "key_details": "Crew included New Zealand and British personnel. Oxenham was RNZAF, serving with 218 (Gold Coast) Squadron.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Digital Archive",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/211503/",
+      "summary": "International Bomber Command Centre loss record for Lancaster LM258 HA-Q, listing Flt Lt Douglas Charles Haggis as pilot. Records the loss on 25 August 1944 during operations against V-1 sites.",
+      "key_details": "Aircraft code HA-Q. IBCC loss reference 211503.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

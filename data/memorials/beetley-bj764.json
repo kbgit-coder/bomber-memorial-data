@@ -19,6 +19,64 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On 9 November 1942, Wellington BJ764 from the French-Canadian 425 (Alouette) Squadron crashed at Beetley in central Norfolk. The Alouette Squadron had been formed at RAF Dishforth in Yorkshire only five months earlier, in June 1942, as one of the RCAF's designated French-Canadian bomber squadrons. The Wellington, a twin-engine medium bomber with its distinctive geodetic airframe construction, was one of Bomber Command's workhorses during 1942. The circumstances of this particular crash -- with the aircraft coming down in Norfolk, far from its Yorkshire base -- suggest the bomber was either returning from operations over the continent or had been diverted due to weather conditions. Four of the six-man crew perished in the crash, while two survived. A memorial at the crash site near the village of Beetley now commemorates the Canadian aircrew who died.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "Raymond Rogers Foltz",
+      "role": "Pilot",
+      "fate": "Details incomplete"
+    }
+  ],
+  "latitude": 52.7238,
+  "longitude": 0.917,
+  "cause_of_loss": "Uncertain; aircraft came down in Norfolk, far from home base",
+  "operation_type": "Operational",
+  "operation_target": "Operational sortie (details incomplete)",
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial at crash site | | Location | Near Beetley village, Norfolk | | Access | Accessible; rural location |",
+  "maintainer": {
+    "organisation": "Beetley Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101718",
+      "summary": "The IWM records the memorial to the crew of Wellington BJ764 at Beetley, Norfolk, commemorating the Canadian aircrew who died in the crash on 9 November 1942.",
+      "key_details": [
+        "IWM memorial reference 101718"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph - East Anglia WW2 Aircrew Crash Memorials",
+      "original_url": "https://www.geograph.org.uk/photo/6029497",
+      "summary": "Geograph photo record of the memorial at Beetley to the crew of Wellington BJ764 of 425 (Alouette) Squadron RCAF. The French-Canadian squadron was formed at Dishforth in June 1942.",
+      "key_details": [
+        "425 (Alouette) Squadron RCAF",
+        "French-Canadian bomber squadron",
+        "Formed at Dishforth June 1942"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrewremembered.com (related 425 Sqn page)",
+      "original_url": "https://aircrewremembered.com/list-of-pages-relating-to-1942.html",
+      "summary": "Aircrewremembered's 1942 index references the Wellington BJ764 loss. Research indicates the aircraft was attacked by Luftwaffe ace Oblt Ludwig Becker near Dokkum in the Netherlands during a Hamburg raid. Two crew bailed out and became POWs; pilot F/Sgt Foltz (aged 26, from New York City) flew the damaged aircraft back to Norfolk but crashed attempting to land at Swanton Morley.",
+      "key_details": [
+        "Attacked by Luftwaffe ace Oblt Ludwig Becker",
+        "Attacked near Dokkum, Netherlands",
+        "On Hamburg raid",
+        "Two crew survived as POWs including Sgt Delorme",
+        "Pilot Foltz aged 26, from New York City",
+        "Attempted emergency landing at Swanton Morley"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

@@ -20,5 +20,38 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "data_quality": "Partial",
+  "latitude": 53.163116813876336,
+  "longitude": -0.1647592877379422,
+  "maintainer": {
+    "organisation": "Crowland Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered (Perkins)",
+      "original_url": "https://aircrewremembered.com/perkins-edward-leslie-john.html",
+      "summary": "Account of the mid-air collision on 23 June 1944 during 97 Squadron formation flying practice from RAF Coningsby. Lancaster ND981 OF-T piloted by Fl/Lt Ted Perkins had its tail removed when ME625 dropped onto it from above. The aircraft broke apart at 1,000 ft; Sgt Coman bailed out and survived.",
+      "key_details": [
+        "Six Lancasters in two V formations",
+        "ND981 tail removed by collision from above",
+        "Aircraft broke at 1,000 ft",
+        "Crash witnessed by villagers at Crowland fete"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrew Remembered (Van Raalte)",
+      "original_url": "https://aircrewremembered.com/van-raalte-henry-stewart.html",
+      "summary": "Account of Lancaster ME625 OF-O piloted by Australian Fl/Lt Van Raalte. The aircraft became trapped in the slipstream of the lead Lancaster during a gentle turn, causing the fatal collision. ME625 crashed two miles from ND981 with no survivors.",
+      "key_details": [
+        "Van Raalte Australian, aged 31",
+        "ME625 crashed two miles from ND981",
+        "No bail-outs observed from ME625"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

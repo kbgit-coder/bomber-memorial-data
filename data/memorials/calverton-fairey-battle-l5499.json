@@ -69,5 +69,34 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Complete"
+  "data_quality": "Complete",
+  "maintainer": {
+    "organisation": "Calverton Parish Council",
+    "website": "https://www.calvertonparishcouncil.gov.uk",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://aviation-safety.net/wikibase/244308",
+      "summary": "Aviation Safety Network records the crash of Fairey Battle Mk.I L5499/BH-Y of 300 (Mazowiecki) Squadron on 13 October 1940 at Watchwood Plantation, Calverton. The aircraft was lost in foggy conditions returning from France.",
+      "key_details": [
+        "Confirmed serial L5499, code BH-Y",
+        "300 (Mazowiecki) Squadron"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/59015",
+      "summary": "IWM records the memorial as a white stone pillar with plaques and a tubular steel cross, with post and chain railings. The memorial was erected by coal miners constructing the Calverton Colliery railway.",
+      "key_details": [
+        "IWM reference: memorial/59015",
+        "White stone pillar with two plaques and tubular steel cross"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

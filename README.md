@@ -42,6 +42,14 @@ For non-developers: you can edit files directly in GitHub's web interface — cl
 
 If you have research but aren't comfortable with JSON, drop it as a text/markdown file in `imports/` and submit a PR — we'll convert it.
 
+## External Narratives
+
+As of March 2026, all 208 memorials have been enriched with `external_narratives` — curated links and summaries from 50+ heritage websites. Total: **679 external narrative entries** averaging 3.3 per memorial.
+
+Top sources: IWM War Memorials Register, War Memorials Online, Aircrew Remembered, Aviation Safety Network, Peak District Air Accident Research, TracesOfWar, CWGC, IBCC Digital Archive, Yorkshire Aircraft, American Air Museum.
+
+Each entry contains a source name, URL, copyright-safe summary, key details unique to that source, and link freshness tracking.
+
 ## Sources
 
 Data compiled from:
@@ -51,7 +59,12 @@ Data compiled from:
 - War Memorials Online
 - Aircrew Remembered
 - Peak District Air Accident Research
-- Local history societies and community records
+- Aviation Safety Network
+- TracesOfWar
+- Yorkshire Aircraft
+- American Air Museum in Britain
+- RAF Commands
+- 50+ local history societies, squadron associations, and community records
 
 ## Licence
 

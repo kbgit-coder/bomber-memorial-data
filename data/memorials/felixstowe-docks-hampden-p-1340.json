@@ -18,6 +18,71 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the night of 3/4 June 1940, during the desperate early months of the war, Hampden P1340 of 44 (Rhodesia) Squadron took off from RAF Waddington in Lincolnshire for a bombing mission against Emmerich on the German-Dutch border. The Hampden was one of the RAF's frontline medium bombers at this stage of the war, and 44 Squadron was heavily engaged in operations over occupied Europe. Returning from the sortie, the Hampden flew into the barrage balloon defences protecting the port of Harwich and the approaches to the Orwell and Stour estuaries. In the darkness, the pilot had no warning before the aircraft's wing struck a barrage balloon cable. The cable sliced through the aircraft structure, sending the Hampden plunging into the waters near Shotley Point. The pilot, Sergeant Edwin Spencer, was rescued from the water by Petty Officer B. Driver of the Royal Navy. However, the three other crew members -- all aged just twenty years old -- were never recovered. Their bodies remained in the wreckage, which was partially trawled up from the docks area in the 1980s, but no human remains were identified. All three are commemorated on the Runnymede Memorial, the RAF's memorial to aircrew with no known grave.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Edwin Joseph Spencer",
+      "service_number": "565945",
+      "role": "Pilot",
+      "fate": "Survived (rescued by PO B. Driver, RN)"
+    },
+    {
+      "rank": "P/O",
+      "name": "Reginald William Roots",
+      "service_number": "36202",
+      "age": 20,
+      "role": "Observer",
+      "fate": "Missing, believed killed",
+      "burial_location": "Runnymede Memorial, Panel 10"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Albert Gross Kendrew",
+      "service_number": "624417 (RAFVR)",
+      "age": 20,
+      "role": "Air Gunner",
+      "fate": "Missing, believed killed",
+      "burial_location": "Runnymede Memorial, Panel 16"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Samuel Patrick Connell",
+      "service_number": "580913",
+      "age": 20,
+      "role": "Air Gunner",
+      "fate": "Missing, believed killed",
+      "burial_location": "Runnymede Memorial, Panel 12"
+    }
+  ],
+  "latitude": 51.9397,
+  "longitude": 1.317,
+  "cause_of_loss": "Collided with barrage balloon cable near Harwich while returning from operations",
+  "operation_type": "Operational",
+  "operation_target": "Bombing sortie to Emmerich, Germany",
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial plaque/marker at crash site; also noted on Felixstowe Town Hall | | Location | Felixstowe area, Suffolk | | Related | Runnymede Memorial (primary commemoration for the three missing crew) |",
+  "maintainer": {
+    "organisation": "Felixstowe Town Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/spencer-ej.html",
+      "summary": "Page for Sgt Edwin Joseph Spencer and the crew of Hampden P1340, 44 Squadron. Details the 3/4 June 1940 mission to Emmerich and the collision with a barrage balloon cable near Harwich on return.",
+      "key_details": "Pilot Sgt Spencer was rescued from the River Orwell by PO B. Driver RN. Three crew members were never recovered. Their names appear on the Runnymede Memorial.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/106964/Memorial-Crew-Hampden-I-P1340.htm",
+      "summary": "Memorial listing for the crew of Hampden I P1340 at Felixstowe. Documents the memorial stone donated by the Felixstowe Dock and Railway Company near the crash site on the north side of the River Orwell.",
+      "key_details": "Memorial stone donated by Felixstowe Dock and Railway Company. Located near the Orwell estuary where the aircraft came down.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

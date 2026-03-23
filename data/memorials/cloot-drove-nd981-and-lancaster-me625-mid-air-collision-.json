@@ -18,6 +18,143 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "Six Lancasters of 97 Squadron took off from RAF Coningsby on a summer afternoon for formation flying practice -- a routine exercise that should have been one of the safer flying activities. The six aircraft flew in two V formations. Fl/Lt \"Jim\" Van Raalte, a 31-year-old Australian, was at the controls of ME625. Without warning, his Lancaster became trapped in the slipstream of the lead aircraft ahead. The turbulence threw ME625 into collision with Lancaster ND981, tearing the tail clean off the second aircraft. Both Lancasters spun out of control and plunged to earth. All eight crew in ME625 were killed. In ND981, Sgt Joseph Coman managed to bail out and survived; the remaining crew perished. The dead included three Australians and two Welshmen. Van Raalte, at 31, was older than most -- experienced enough to have known the risks. This was not combat loss but training accident, and such losses were disturbingly common. On 23 June 2014, the 70th anniversary, relatives gathered at Cloot House Farm for a memorial service and the unveiling of a permanent plaque.",
+  "crew": [
+    {
+      "rank": "Fl/Lt",
+      "name": "Henry Stewart \"Jim\" Van Raalte",
+      "service_number": "Aus/415220 RAAF",
+      "age": 31,
+      "role": "Pilot",
+      "nationality": "Australian",
+      "burial_location": "Cambridge City Cemetery, Grave 13766",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Maurice Durn",
+      "service_number": "1622745 RAFVR",
+      "age": 21,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "Marsden (St Bartholomew's) Churchyard, Row 7, Grave 17",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "David Gethin Williams",
+      "service_number": "78568 RAFVR",
+      "age": 22,
+      "role": "Navigator",
+      "nationality": "Welsh",
+      "burial_location": "Treorchy Cemetery, Plot T, Grave 168",
+      "fate": "Killed"
+    },
+    {
+      "rank": "W/O",
+      "name": "Alfred Leonard Lambert",
+      "service_number": "Aus/409318 RAAF",
+      "age": 25,
+      "role": "Air Bomber",
+      "nationality": "Australian",
+      "burial_location": "Cambridge City Cemetery, Grave 14166",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "Alan Arnold",
+      "service_number": "Aus/410136 RAAF",
+      "age": 26,
+      "role": "Visual Air Bomber",
+      "nationality": "Australian",
+      "burial_location": "Cambridge City Cemetery, Grave 13966",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Eric Henry Peace",
+      "service_number": "1434302 RAFVR",
+      "age": 22,
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "burial_location": "Cambridge City Cemetery, Grave 14366",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Royston George Davies",
+      "service_number": "1315090 RAFVR",
+      "age": 22,
+      "role": "Air Gunner (Mid Upper)",
+      "nationality": "Welsh",
+      "burial_location": "Treorchy Cemetery, Row R.1, Grave 17",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fl/Lt",
+      "name": "John David Fletcher",
+      "service_number": "115198 RAFVR",
+      "age": 24,
+      "role": "Air Gunner (Rear)",
+      "nationality": "British",
+      "burial_location": "Cambridge City Cemetery, Grave 14566",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Mid-air collision; ME625 trapped in slipstream of lead aircraft, struck ND981 removing its tail",
+  "operation_type": "Training",
+  "memorial_details": "A permanent memorial plaque was unveiled at Cloot House Farm on 23 June 2014 (70th anniversary). Relatives from Australia attended. The site is accessible with permission.",
+  "latitude": 52.338146651008664,
+  "longitude": -0.24989331975681073,
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered (Van Raalte)",
+      "original_url": "https://aircrewremembered.com/van-raalte-henry-stewart.html",
+      "summary": "Detailed account of Lancaster ME625 OF-O piloted by Fl/Lt Van Raalte in the mid-air collision on 23 June 1944. The Australian pilot's aircraft became trapped in the lead aircraft's slipstream during formation practice, causing the fatal collision with ND981. All eight crew of ME625 killed.",
+      "key_details": [
+        "Van Raalte was Australian, aged 31",
+        "Aircraft trapped in slipstream during gentle turn",
+        "All 8 crew of ME625 killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrew Remembered (Perkins)",
+      "original_url": "https://aircrewremembered.com/perkins-edward-leslie-john.html",
+      "summary": "Account of Lancaster ND981 OF-T piloted by Fl/Lt Ted Perkins. The aircraft had its entire tail section removed by ME625 during the collision. ND981 broke in two at 1,000 ft; Sgt Joseph Coman bailed out and survived, but all other crew perished.",
+      "key_details": [
+        "Tail section completely removed by collision",
+        "Aircraft broke apart at 1,000 ft",
+        "Sgt Coman only survivor, bailed out as aircraft broke up"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/177573/",
+      "summary": "Memorial record for the Lancaster crash site plaque at Cloot House Farm, Deeping Fen. Plaque unveiled 23 June 2014 on the 70th anniversary, attended by relatives from Australia.",
+      "key_details": [
+        "Plaque at Cloot House Farm",
+        "70th anniversary unveiling 23 June 2014",
+        "Australian relatives attended"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/88630",
+      "summary": "Imperial War Museums register entry for the memorial to Lancasters ME625 and ND981 at Cloot Drove, commemorating the 13 crew killed in the mid-air collision.",
+      "key_details": [
+        "IWM memorial reference 88630",
+        "13 crew commemorated"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

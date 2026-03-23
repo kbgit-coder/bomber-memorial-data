@@ -21,5 +21,37 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "data_quality": "Partial",
+  "latitude": 52.1543598180459,
+  "longitude": -0.03264366730917567,
+  "maintainer": {
+    "organisation": "Pidley Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "RAF Pathfinders Archive",
+      "original_url": "https://raf-pathfinders.com/mosquito-squadron-crews-and-related-topics/",
+      "summary": "RAF Pathfinders Archive documenting Mosquito squadron crews and related topics including 1655 Mosquito Training Unit at RAF Warboys. The MTU trained Pathfinder crews for operations, and losses during training were a significant cost of preparing elite navigation and target-marking crews.",
+      "key_details": [
+        "1655 MTU was a Pathfinder training unit",
+        "Based at RAF Warboys",
+        "Trained crews for Pathfinder Force operations"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Pathfinders Archive - Training Units",
+      "original_url": "https://raf-pathfinders.com/pff-training-units/",
+      "summary": "Overview of Pathfinder Force training units including 1655 MTU at Warboys. The unit moved to Upper Heyford on 12 December 1944 and was renamed 16 OTU on 1 January 1945. Documents the role of Mosquito training in preparing crews for Pathfinder operations.",
+      "key_details": [
+        "1655 MTU moved to Upper Heyford 12 Dec 1944",
+        "Renamed 16 OTU on 1 Jan 1945",
+        "Pathfinder Force training role"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

@@ -19,6 +19,53 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Partial",
+  "narrative": "The parish of Clenchwarton, situated in the flat marshland near King's Lynn on Norfolk's western edge, witnessed an extraordinary concentration of wartime aircraft crashes. Its position beneath the approach paths to several Norfolk bomber stations -- including nearby RAF Marham and the Fens airfields -- made it tragically vulnerable to aircraft in distress. The most significant RAF Bomber Command incidents were the loss of Short Stirling W7473 from 218 Squadron on 23 April 1942, which crashed into Ingrams Field, and Halifax HR832 from 405 (Vancouver) Squadron RCAF on 16 June 1943, which came down at Clifton Farm. The Halifax was from the Canadian Pathfinder squadron based at Gransden Lodge in Cambridgeshire, far from its home base, indicating the aircraft was likely in serious trouble and seeking any available landing ground. In total, six separate aircraft crashes occurred within the parish boundaries during the war years, killing nineteen aircrew. The variety of aircraft types -- Stirling, Halifax, Mosquito, Hurricane, and Oxford -- reflects the diversity of operations passing over this corner of Norfolk. It was not until the year 2000 that the parish formally recognised this grim toll with a dedicated memorial.",
+  "latitude": 52.7546,
+  "longitude": 0.341,
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Board/plaque/tablet memorial | | Location | Clenchwarton Memorial Hall, Norfolk | | Dedicated | 23 April 2000 (unveiled on 58th anniversary of the Stirling crash) | | Organised by | Local community with Air Crew Association support | | Inscription | \"A MEMORIAL TO THE AIRCREW WHO DIED WHEN THEIR AIRCRAFT CRASHED IN THE PARISH OF CLENCHWARTON... MAY THEY REST IN PEACE\" | | Names recorded | 19 | | IWM Reference | WMR-64994 | | Access | Inside Clenchwarton Memorial Hall |",
+  "maintainer": {
+    "organisation": "Clenchwarton Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/lawson-christopher.html",
+      "summary": "Account of Halifax II HR832 from 405 (Vancouver) Squadron RCAF crashing at Clifton Farm, Clenchwarton on 16 June 1943. The aircraft was struck by lightning during a severe electrical storm on a cross-country training flight, causing structural breakup before impact at 19:05.",
+      "key_details": [
+        "405 Squadron RCAF (Canadian Pathfinders)",
+        "Struck by lightning causing structural breakup",
+        "Crashed at Clifton Farm at 19:05",
+        "Based at Gransden Lodge, Cambridgeshire"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/64994",
+      "summary": "Imperial War Museums register entry for the Clenchwarton multi-crash memorial commemorating aircraft crashes in the parish during WW2. IWM reference WMR-64994.",
+      "key_details": [
+        "IWM memorial reference 64994",
+        "19 names recorded on memorial",
+        "Unveiled 23 April 2000"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://aviation-safety.net/wikibase/202825",
+      "summary": "Accident record for Short Stirling Mk I W7473 of 218 Squadron which crashed at Ingrams Field, Clenchwarton on 24 April 1942. Lost power from one engine shortly after take-off.",
+      "key_details": [
+        "218 Squadron RAF Marham",
+        "Engine power loss after take-off",
+        "Crashed 2 miles west of King's Lynn"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

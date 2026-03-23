@@ -85,5 +85,28 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Complete"
+  "data_quality": "Complete",
+  "maintainer": {
+    "organisation": "Wellow Parish Council",
+    "maintainer_type": "parish-council",
+    "notes": "Memorial at former RAF Ossington site, in Wellow parish area."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/adams-walter.html",
+      "summary": "Page for P/O Walter Waldron Adams and crew of Wellington MS471 KA:G, 82 OTU. On 9 August 1943, the aircraft's starboard engine failed during a cross-country training exercise. The pilot attempted a forced landing but stalled trying to clear telegraph poles, crashing into a cornfield at Grimston Hill.",
+      "key_details": "Police Sergeant Ernest Flinders was on leave nearby and pulled crew from the burning wreckage despite exploding ammunition, earning the British Empire Medal. F/O Frank Graham-Bell was a distinguished painter and art critic for the New Statesman. Canadian P/O Herbert Ibbott has a lake in northern Manitoba named in his honour.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Newark Advertiser",
+      "original_url": "https://www.newarkadvertiser.co.uk/news/remembering-tragic-bomber-crash-and-wartime-heroes-80-years-9325299/",
+      "summary": "Newspaper article marking 80 years since the Wellington MS471 crash at Grimston Hill. Details the heroism of PS Flinders and the stories of the crew, including the notable backgrounds of Graham-Bell (artist/critic) and Ibbott (Canadian whose name lives on in Manitoba geography).",
+      "key_details": "80th anniversary commemoration. Pilot Adams had only 18 hours of daytime Wellington flying experience and no night experience recorded. Memorial at former RAF Ossington site dedicated in 2022.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

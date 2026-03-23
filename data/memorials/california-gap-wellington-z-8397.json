@@ -18,6 +18,100 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On New Year's Eve 1940, Wellington N2980 -- known as \"R for Robert\" -- took off from RAF Lossiemouth on an afternoon navigation exercise. The aircraft had a distinguished operational history, having participated in the Battle of Heligoland Bight on 18 December 1939, one of the earliest and costliest Bomber Command raids of the war. Over Loch Ness, the starboard engine failed in blizzard conditions. Squadron Leader Marwood-Elton ordered the crew to bail out before attempting to ditch the aircraft on the loch. Six of the seven who bailed out landed safely, but rear gunner Sgt Fensome pulled his ripcord prematurely; his parachute struck the aircraft's tailplane and was damaged, and he fell to his death. The Wellington itself ditched relatively intact in approximately 70 metres of water. It lay undiscovered for 36 years until sonar equipment operated by Dr Robert Rines' team (also searching for the Loch Ness Monster) detected it in 1976. On 21 September 1985, the remarkably well-preserved aircraft was raised and is now displayed at Brooklands Museum, Weybridge -- one of only two surviving Wellingtons in the world.",
+  "crew": [
+    {
+      "rank": "S/Ldr",
+      "name": "David Marwood-Elton",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "J. F. Slater",
+      "role": "Co-Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "W. Wright",
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "C. H. Chandler",
+      "role": "Navigator (trainee)",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "E. J. Ford",
+      "role": "Navigator (trainee)",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "R. E. Little",
+      "role": "Navigator (trainee)",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "T. G. Lupton",
+      "role": "Navigator (trainee)",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "J. S. Fensome",
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
+  "latitude": 57.3993,
+  "longitude": -4.3538,
+  "cause_of_loss": "Starboard engine failure in blizzard conditions",
+  "operation_type": "Training",
+  "memorial_details": "A rectangular metal plaque set within a stone cairn was unveiled on 16 December 1989 by pupils from Drumsmittal Primary School, on the 60th anniversary of the Battle of Heligoland Bight. A second plaque about the sonar discovery and recovery was added on 29 June 2002. The memorial is located in a lay-by on the A82, approximately 1 mile south of Lochend, between Lochend and Drumnadrochit (NH 58604 36660). The Loch Ness Wellington Association Ltd organised the memorial. The plaque features a side view of a Wellington bomber in relief flanked by two crests.",
+  "maintainer": {
+    "organisation": "Scratby and California Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/tothill-frank.html",
+      "summary": "Aircrew Remembered documents the loss of Wellington Z8397 of 12 Squadron on 10/11 October 1941. The aircraft took off from RAF Binbrook to attack Cologne but returned with engine problems and crash-landed on the beach at California Gap near Caister-on-Sea. Reports suggest the aircraft struck a mine after landing, killing all six crew.",
+      "key_details": [
+        "Target: Cologne",
+        "Crashed on beach at California Gap",
+        "Reports of aircraft touching a mine after landing",
+        "All six crew killed, ages 20-25"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101410",
+      "summary": "IWM records the memorial to the crew of Wellington Z8397 at California Gap, Norfolk. The memorial plaque is located on the California Tavern building.",
+      "key_details": [
+        "IWM reference: memorial/101410",
+        "Memorial plaque on California Tavern building"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

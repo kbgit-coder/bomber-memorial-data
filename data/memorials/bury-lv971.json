@@ -21,5 +21,25 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "data_quality": "Partial",
+  "latitude": 52.30909530356591,
+  "longitude": 0.23386529363161396,
+  "maintainer": {
+    "organisation": "Bury Parish Council",
+    "maintainer_type": "church",
+    "notes": "Church memorial."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Find a Grave",
+      "original_url": "https://www.findagrave.com/memorial/143365988/halifax_bomber_crash_memorial",
+      "summary": "Find a Grave records the Halifax Bomber Crash Memorial at Bury, Cambridgeshire. The memorial commemorates the crew of Halifax LV971 of 433 (Porcupine) Squadron RCAF who were killed on 18 April 1944.",
+      "key_details": [
+        "Find a Grave memorial reference: 143365988",
+        "433 (Porcupine) Squadron RCAF"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

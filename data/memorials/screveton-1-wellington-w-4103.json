@@ -18,6 +18,87 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the afternoon of 14 April 1944, the skies above the quiet Nottinghamshire village of Screveton became the scene of the worst single training accident in the area. A Lancaster from 5 Lancaster Finishing School at nearby RAF Syerston and an Airspeed Oxford from 1521 BAT Flight at RAF Wymeswold in Leicestershire collided in mid-air at around 16:30. The Lancaster, crewed by nine men including a Canadian pilot instructor and an Australian pupil pilot, disintegrated. The Oxford, carrying two pilots — an instructor and a trainee — was also destroyed. Eyewitnesses reported that both pilots appeared to steer their stricken aircraft away from the village and into open countryside, a selfless act that almost certainly saved civilian lives. All nine Lancaster crew died instantly. Fl/Lt Hawkins in the Oxford survived the initial crash but succumbed to his injuries later that day at RAF Quarrington Hospital in Sleaford. The ages ranged from 19 (two men — engineer Herbert and trainee pilot Stokoe) to 28 (the Canadian instructor Richardson, who held the DFM, and Australian Laidler). The collision highlighted the ever-present danger of the crowded wartime skies over Nottinghamshire, where dozens of training flights operated daily from multiple airfields in close proximity.",
+  "crew": [
+    {
+      "rank": "Fl/Lt",
+      "name": "James Addison Hawkins",
+      "service_number": "120119 RAFVR",
+      "age": 22,
+      "role": "Pilot Instructor",
+      "nationality": "British",
+      "burial_location": "Burton-on-the-Wolds, Row F, Grave 10",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "Bryan Hedley Dennis",
+      "service_number": "160921 RAFVR",
+      "age": 21,
+      "role": "Pilot Under Training",
+      "nationality": "British",
+      "burial_location": "St Albans Cemetery, Sec. L, Row A, Grave 33",
+      "fate": "Killed"
+    }
+  ],
+  "latitude": 52.9878,
+  "longitude": -0.9089,
+  "cause_of_loss": "Mid-air collision between the two training aircraft",
+  "operation_type": "Training",
+  "memorial_details": "Initial research into the collision was carried out by a man who had witnessed the crash as a schoolboy. A stone memorial was dedicated on 13 November 2005, bearing the names of all eleven men. The memorial is located on public land near Screveton village. It is maintained by local residents.",
+  "maintainer": {
+    "organisation": "Screveton Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/richardson-henry.html",
+      "summary": "Detailed crew page for 5 LFS Lancaster I W4103 piloted by F/O Richardson DFM. The mid-air collision with Airspeed Oxford LB415 from 1521 BAT Flight occurred at 1,000 feet over Screveton at 16:30 during a daytime dual flying exercise, killing all aboard both aircraft.",
+      "key_details": [
+        "Collision at 1,000 feet altitude",
+        "Oxford aircraft was LB415 from 1521 BAT Flight at RAF Wymeswold",
+        "Both aircraft pilots steered away from village",
+        "Collision occurred 40 minutes into exercise"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/21027/Memorial-Aircraft-Collission-Screveton.htm",
+      "summary": "International memorial database entry for the Screveton aircraft collision memorial. Documents the stone memorial dedicated on 13 November 2005 commemorating all 11 crew from both aircraft.",
+      "key_details": [
+        "Memorial dedicated 13 November 2005",
+        "Commemorates all 11 men from both aircraft",
+        "Listed in international memorial database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Visit Nottinghamshire",
+      "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
+      "summary": "Nottinghamshire Aviation Memorials guide including the Screveton collision memorial. Places the crash in context of the county's dense wartime airfield network and the many training accidents that resulted.",
+      "key_details": [
+        "Part of Nottinghamshire aviation memorials trail",
+        "Dense airfield network created collision risk"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Notts Villages Blog",
+      "original_url": "http://nottsvillages.blogspot.com/2015/07/screveton.html",
+      "summary": "Village history blog documenting the Screveton collision as a significant event in the village's history. Notes that the memorial research was initiated by a schoolboy witness of the original crash.",
+      "key_details": [
+        "Memorial research started by childhood witness",
+        "Significant event in village history"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

@@ -18,6 +18,89 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the night of 30/31 July 1941, No. 150 Squadron at RAF Snaith was ordered to provide eight Wellington bombers for a raid on Cologne. The weather in England that night was poor, with low cloud and rain. Wellington W5719 was the first aircraft to take off, departing at 23:25. The raid on Cologne was completed, and the crew turned for home. But in the murky conditions over England, the Wellington overshot its base in Yorkshire and continued westward towards the Pennines. At approximately 04:05, still in cloud and misjudging their altitude, the crew flew into the steeply rising ground on the northern side of Grindsbrook Clough, near Upper Tor on Kinder Scout. The crash was catastrophic. The bomber exploded on impact, killing five of the six crew instantly. However, in a remarkable stroke of fortune, rear gunner Sergeant Earl Tilley survived -- his tail turret was torn free from the fuselage by the force of the impact and flung clear of the burning wreckage. Injured but alive, Tilley was able to extricate himself and make his way down to the village of Edale to raise the alarm.",
+  "crew": [
+    {
+      "rank": "Sergeant",
+      "name": "Percival Harold Charles Parrott",
+      "role": "Pilot",
+      "nationality": "RAF",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Joseph Arthur Haswell",
+      "role": "2nd Pilot (supernumerary)",
+      "nationality": "RAF",
+      "fate": "Killed",
+      "burial_location": "Manchester Southern Cemetery (commemorated on screen wall)"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Jack Douglas Evelle",
+      "role": "Observer / Navigator",
+      "nationality": "RCAF",
+      "fate": "Killed",
+      "burial_location": "Manchester Southern Cemetery"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Frederick Kenneth Webber",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "RAF",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Dennis Aloysius Monk",
+      "role": "Air Gunner",
+      "nationality": "RAF",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Earl Tilley",
+      "role": "Rear Gunner",
+      "nationality": "RAF",
+      "fate": "Survived"
+    }
+  ],
+  "cause_of_loss": "Overshot base on return from operations; descended too low in cloud and flew into the steeply rising ground on the northern side of Grindsbrook Clough.",
+  "operation_type": "Operational",
+  "operation_target": "Operational -- returning from bombing raid on Cologne (Koln)",
+  "memorial_details": "Wreckage fragments remain at the site. No formal memorial plaque has been documented at the crash location.",
+  "latitude": 53.380942294143644,
+  "longitude": -1.551334270273853,
+  "maintainer": {
+    "organisation": "Peak District National Park Authority",
+    "website": "https://www.peakdistrict.gov.uk",
+    "maintainer_type": "military"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/peak-district/vickers-wellington-w5719-upper-tor/",
+      "summary": "Comprehensive crash investigation page for Wellington Mk.IC W5719 of No. 150 Squadron. The aircraft took off at 23:25 from RAF Snaith for Cologne but aborted the mission, unable to find the target in cloud-covered Germany. On return, the crew overshot their base and continued into the Pennines, believing they were still 2,000 feet above sea level when they struck the ground below Upper Tor.",
+      "key_details": [
+        "Mission aborted due to inability to find target",
+        "Crew believed they were 2,000 feet above ground level",
+        "Bombs exploded on impact, hurling tail turret into Grindsbrook Clough"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Air Crash Sites UK",
+      "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/crash-site-of-wellington-w5719-on-kinder-scout-2/",
+      "summary": "Photographic documentation of the crash site on Kinder Scout with walking directions. Small wreckage fragments remain at the site. The article details how Sgt Tilley's tail turret was flung into Grindsbrook Clough by the bomb explosion, saving his life.",
+      "key_details": [
+        "Wreckage fragments still visible at site",
+        "Walking route information provided"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

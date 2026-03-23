@@ -19,6 +19,159 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial"
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On 22 February 1944, the B-17 Flying Fortress \"Mi Amigo\" was returning from a bombing mission over Aalborg, Denmark, having been severely damaged by Luftwaffe fighters en route. With engines failing and the aircraft barely controllable, First Lieutenant Kriegshauser nursed the crippled bomber across the North Sea and over the English coast. By the time the B-17 reached Sheffield, at around 5pm, it was clear the aircraft could not reach any airfield. Kriegshauser prepared for a crash landing and began his final approach towards open ground. Then he saw them: a large group of children playing in Endcliffe Park below. Without hesitation, Kriegshauser aborted the landing, hauling the dying aircraft over the park and into the trees beyond. All ten crew members were killed in the resulting crash. The children were saved. The crew's ages have not been fully documented, but most were in their early twenties. Their sacrifice -- choosing certain death over the risk of killing children -- has made the Mi Amigo one of the most emotionally powerful war memorial stories in Britain.",
+  "crew": [
+    {
+      "rank": "1st Lt",
+      "name": "John G. Kriegshauser",
+      "role": "Pilot",
+      "nationality": "American",
+      "fate": "Killed"
+    },
+    {
+      "rank": "2nd Lt",
+      "name": "Lyle J. Curtis",
+      "role": "Co-Pilot",
+      "nationality": "American",
+      "fate": "Killed"
+    },
+    {
+      "rank": "2nd Lt",
+      "name": "John W. Humphrey",
+      "role": "Navigator",
+      "nationality": "American",
+      "fate": "Killed"
+    },
+    {
+      "rank": "2nd Lt",
+      "name": "Melchor Hernandez",
+      "role": "Bombardier",
+      "nationality": "American",
+      "fate": "Killed"
+    },
+    {
+      "rank": "T/Sgt",
+      "name": "George M. Williams",
+      "role": "Waist Gunner",
+      "nationality": "American",
+      "fate": "Killed"
+    },
+    {
+      "rank": "S/Sgt",
+      "name": "Harry W. Estabrooks",
+      "role": "Flight Engineer/Top Turret",
+      "nationality": "American",
+      "fate": "Killed"
+    },
+    {
+      "rank": "S/Sgt",
+      "name": "Robert E. Mayfield",
+      "role": "Radio Operator",
+      "nationality": "American",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Charles H. Tuttle",
+      "role": "Ball Turret Gunner",
+      "nationality": "American",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Vito R. Ambrosio",
+      "role": "Waist Gunner",
+      "nationality": "American",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Maurice D. Robbins",
+      "role": "Tail Gunner",
+      "nationality": "American",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Heavily damaged by enemy fighters over Denmark; engines failing; pilot aborted landing approach to avoid children playing in park",
+  "operation_type": "Operational",
+  "operation_target": "Returning from bombing mission over Aalborg, Denmark",
+  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Memorial boulder with twin bronze plaques; grove of 10 scarlet oak trees (one per crew member) | | **Dedicated** | 30 November 1969 (plaque and original trees) | | **Ceremony** | Lord Mayor of Sheffield (Alderman Daniel O'Neill), Bishop of Sheffield (John Taylor), Major General John Bell (Commander, 3rd US Air Force in Britain) | | **Maintenance** | Tony Foulds (local man, maintained memorial for decades; witnessed the crash as a child); military cadets; Friends of Porter Valley; Sheffield Parks Department | | **2019 Flypast** | After Tony Foulds' story went viral on BBC, the USAF and RAF organised a joint flypast of F-15 Eagles and Typhoons over Endcliffe Park on 22 February 2019, the 75th anniversary | | **80th Anniversary** | 2024 ceremony with fighter jet flypast | | **Condition** | Excellent; actively maintained and annually commemorated | | **Access** | Endcliffe Park, Rustlings Road, Sheffield S11; free public access |",
+  "latitude": 53.806208436610675,
+  "longitude": -1.390804084937897,
+  "maintainer": {
+    "organisation": "Sheffield City Council",
+    "maintainer_type": "parish-council",
+    "notes": "Mi Amigo memorial in Endcliffe Park, maintained by Sheffield City Council. Annual flyover ceremony."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Wikipedia",
+      "original_url": "https://en.wikipedia.org/wiki/Mi_Amigo_memorial",
+      "summary": "Wikipedia article on the Mi Amigo memorial at Endcliffe Park, Sheffield. Documents the full history from the 1944 crash through to Tony Foulds' decades-long maintenance of the memorial and the viral 2019 BBC story that led to a joint USAF/RAF flypast.",
+      "key_details": [
+        "Tony Foulds maintained memorial for decades after witnessing crash as a child",
+        "2019 flypast organised after BBC story went viral",
+        "One of Britain's most well-known WWII crash memorials"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "American Air Museum in Britain",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-31322",
+      "summary": "American Air Museum archive entry for B-17G 42-31322 'Mi Amigo' of the 305th Bomb Group (some sources list 364th BS). Provides aircraft service history and loss details with crew records.",
+      "key_details": [
+        "Aircraft archive with full service history",
+        "Crew personnel records linked"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/27509",
+      "summary": "IWM War Memorials Register entry for the B-17 'Mi Amigo' 42-31322 memorial of the 305th Bomb Group USAAF. National-level memorial registration.",
+      "key_details": [
+        "IWM memorial reference 27509",
+        "Registered as 305th Bomb Group memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/136443/Memorial-Crash-B-17G-Mi-Amigo-42-31322.htm",
+      "summary": "International memorial database entry for the Mi Amigo crash memorial. Provides the crash narrative and memorial details within the TracesOfWar global database of WWII sites.",
+      "key_details": [
+        "Listed in international TracesOfWar database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "aircrashsites.co.uk",
+      "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/usaaf-b-17-42-31322-mi-amigo-endcliffe-park-sheffield-2/",
+      "summary": "Detailed crash site page with narrative of the Mi Amigo's final flight. Bombardier 2nd Lt Hernandez was unable to release bombs due to cloud obscuring the target over Aalborg, and the bombs were jettisoned over the North Sea as the B-17 limped home.",
+      "key_details": [
+        "Bombs jettisoned over North Sea",
+        "Target obscured by cloud",
+        "Aircraft pursued by enemy fighters"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Key Aero",
+      "original_url": "https://www.key.aero/article/usaf-perform-flypast-over-sheffield-mark-80th-anniversary-b-17-crash",
+      "summary": "Coverage of the USAF flypast over Sheffield marking the 80th anniversary of the B-17 crash in 2024. Demonstrates the enduring significance of the memorial and ongoing Anglo-American remembrance tradition.",
+      "key_details": [
+        "80th anniversary USAF flypast in 2024",
+        "Ongoing annual commemorations"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }
