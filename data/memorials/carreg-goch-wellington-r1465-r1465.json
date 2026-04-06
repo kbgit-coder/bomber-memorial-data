@@ -22,7 +22,7 @@
         },
         {
             "title": "Aviation Safety Network",
-            "url": "https://asn.flightsafety.org/wikibase/170291",
+            "url": null,
             "type": "database"
         },
         {
@@ -129,7 +129,8 @@
                 "Date confirmed as 6 July 1942"
             ],
             "date_retrieved": "2026-03-23",
-            "still_live": true
+            "still_live": false,
+            "notes": "URL dead as of 2026-04-06"
         },
         {
             "source_site": "Countryfile",

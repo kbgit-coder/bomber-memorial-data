@@ -20,12 +20,12 @@
     },
     {
       "title": "Aviation Safety Network",
-      "url": "https://asn.flightsafety.org/wikibase/139938",
+      "url": null,
       "type": "database"
     },
     {
       "title": "Wrexham History",
-      "url": "https://www.wrexham-history.com/war-memorials/bwlchgwyn-war-memorial/",
+      "url": null,
       "type": "website"
     }
   ],
@@ -135,7 +135,8 @@
         "All 8 killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false,
+      "notes": "URL dead as of 2026-04-06"
     },
     {
       "source_site": "Wrexham History",
@@ -146,7 +147,8 @@
         "Created for VE Day 1994"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false,
+      "notes": "URL dead as of 2026-04-06"
     }
   ],
   "local_contacts": [
