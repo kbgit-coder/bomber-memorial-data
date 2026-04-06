@@ -129,8 +129,8 @@
       "decorations": []
     }
   ],
-  "latitude": 52.9504,
-  "longitude": 1.0904,
+  "latitude": 52.9496,
+  "longitude": 1.0902,
   "cause_of_loss": "Aircraft flew into 200ft Type 54 CHEL (Chain Home Extra Low) radar mast on Bard Hill in poor visibility; misunderstood W/T messages may have contributed",
   "operation_type": "Operational",
   "operation_target": "Bombing operation to Leuna/Merseburg synthetic oil plant",
@@ -150,8 +150,9 @@
         "Radar operators were tracking E-boats at time of collision",
         "Misunderstood W/T messages contributed"
       ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+      "date_retrieved": "2026-03-24",
+      "still_live": true,
+      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 14/15.01.1945 61 Squadron Lancaster III LM720 QR:D Fg Off. William G. Corewyn Operation: Leuna, Germany.\n\nDate: 14th/15th January 1945 (Sunday/Monday)\n\nBase: RAF Skellingthorpe, Lincolnshire.\n\nLocation: Bard Hill, Salthouse, Norfolk.\n\nPilot: Fg Off. William George Corewyn 178520 RAFVR Age 23. KiA\n\nFlt Eng: Sgt. Peter Richard Earl 1649851 RAFVR Age 21. KiA\n\nNav: Flt Sgt. Ronald Charles Battersby 1545932 RAFVR Age 23. KiA\n\nBom Aimer: Flt Sgt. Edward James Boakes 1586951 RAFVR Age 21. KiA\n\nWOp/Air Gnr: Flt Sgt. Sidney Joseph James 1583124 RAFVR Age 20. KiA\n\nAir Gnr (Mid Upp): Sgt. John Douglas 1373345 RAFVR Age 24. KiA\n\nAir Gnr (Rear): Sgt. Richard Richardson 1590833 RAFVR Age 19. KiA\n\nTook off at 16:30 hrs from Skellingthorpe, Lincolnshire to bomb the synthetic oil refinery in Germany. A total of 573 Lancasters and 14 Mosquitoes took part in two raids this night. The attacks were classed as very successful causing severe damage throughout the plant. 10 Lancasters were lost on this raid.\n\nLancaster LM720 carried out the raid and on return to it's base weather conditions worsened and it is thought that this together with a poor wireless transmission advising the crew to divert to Carnaby airfield near Bridlington, Yorkshire are the reasons behind the accident.(built solely for the use of damaged large aircraft, with a single runway - 5 times the normal width and with a length of 9,000 metres.\n\nThis airfield also had FIDO in place to assist during fog. however for some reason the aircraft headed towards Langham airfield, Norfolk. The aircraft was descending to land in very bad visibility and low cloud when the Lancaster hit a 200 ft. radar mast at Bard Hill, Salthouse, Norfolk at 01:21 hrs. 6 the crew were killed instantly the 7th, Flt Sgt Edward Boakes died in hospital at 06:25hrs the same day.\n\nFIDO = Fog Intense Dispersal Operation.\n\nLancaster LM720 Crew (Courtesy of the Earl family)\n\nLeft: Sgt. Peter Earl (courtesy of the Earl family) Right: Flt Sgt. Edward 'Teddy' Boakes (courtesy Sian Boakes)\n\nPhotographs supplied by Gerald Cubitt (Salthouse born historian)\n\nThe pylon today (courtesy of airfield exchange Note: this organisation no longer exists)\n\nWith thanks to Val Fiddian for the use of the information and some photographs in this article. She and her website have been a tremendous help and hope that we are able to assist one another in the future with other Norfolk losses / memorials.\n\nSome of the crew graves (courtesy of Andy Upton)\n\nFg Off. William George Corewyn. Dalnottar Cemetery. Sec. K. Grave 11. Grave inscription: ' ONE OF THE BRAVE WHO ANSWERED THE CALL, FOR THOSE HE LOVED HE GAVE HIS ALL', Son of William George and Annie Leeson Corewyn, of Scotstounhill, Glasgow, Scotland.\n\nSgt. Peter Richard Earl. Wells-Next-The-Sea Cemetery. Grave 374. Grave inscription: ‘ HE GAVE HIS LIFE FOR FREEDOM. EVER REMEMBERED BY HIS LOVING SISTERS AND BROTHERS, UNCLE, FIANCEE AND PARENTS '. Son of George William and Lizzie Earl, of Mayford, Woking, Surrey, nephew of Mr. R. C. T. Earl, of Knaphill, Woking, England.\n\nFlt Sgt. Ronald Charles Battersby. Leeds (Lawn Wood) Cemetery Sec. V. Grave 263. Grave inscription: 'LOVING MEMORIES ALWAYS OF A DEAR SON AND BROTHER'. Son of Frederick and Louisa Battersby, of Headingley, Leeds, England.\n\nAbove: private family headstone for the Boakes family (Courtesy of PCC)\n\nFlt Sgt. Edward James Boakes. Churchdown (St. Bartholomew) Churchyard/ S.W of Church. Grave inscription: ' E'EN AS HE TROD THAT DAY TO GOD, SO WALKED HE FROM HIS BIRTH; IN SIMPLENESS AND GENTLENESS, AND HONOUR AND CLEAN MIND'. Son of John Henry and Nellie Eva Boakes, of Gloucester, England.\n\nFlt Sgt. Sidney Joseph James. Broadway (St. Eadburgh) Churchyard. N.W. of Church. Grave inscription: ' AT THE GOING DOWN OF THE SUN AND IN THE MORNING WE WILL REMEMBER HIM'. Son of Joseph Charles and Annie Elizabeth James, of Broadway, England.\n\nSgt. John Douglas. Wells-Next-The-Sea Cemetery. Grave 395. Grave inscription: 'ON WHOSE SOUL SWEET JESUS, HAVE MERCY'. Son of J. Douglas and Mary A. Douglas, of Coatbridge, Lanarkshire, Scotland.\n\nSgt. Richard Richardson. Tadcaster Cemetery Sec. B.7. Row K. Grave 4. Son of James Henry and Ada Mary (née Graham) Richardson from Lancashire.\n\nHis brother Sgt. James Graham Richardson 407317 of the Royal Tank Regiment was KiA on the 16th August 1944 in France.\n\nWith thanks the Salhouse History website in Norfolk."
     },
     {
       "source_site": "Imperial War Museums",
@@ -200,6 +201,57 @@
       "role": "Local authority responsible for memorial upkeep"
     }
   ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/No._61_Squadron_RAF.png",
-  "squadron_motto": "Thundering through the clear air"
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/61.jpg",
+  "squadron_motto": "Per purum tonantes",
+  "what3words": "sprawls.elevates.windmills",
+  "photos": [
+    {
+      "filename": "salthouse-lm720/61-squadron-lancaster-iii-lm720-qr-d-1-w800-w800.jpg",
+      "caption": "61 squadron lancaster iii lm720 qr d 1",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "salthouse-lm720/61-squadron-lancaster-iii-lm720-qr-d-crew-1-w800-w800.jpg",
+      "caption": "61 squadron lancaster iii lm720 qr d crew 1",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "salthouse-lm720/61-squadron-lancaster-iii-lm720-crew-members-w800-w800.jpg",
+      "caption": "61 squadron lancaster iii lm720 crew members",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "salthouse-lm720/61-squadron-lancaster-iii-lm720-pylon-w800-w800.jpg",
+      "caption": "61 squadron lancaster iii lm720 pylon",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "salthouse-lm720/61-squadron-lancaster-iii-lm720-memorial-w800-w800.jpg",
+      "caption": "61 squadron lancaster iii lm720 memorial",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "salthouse-lm720/61sqn-edward-j-boakes-headstone-1-w800.jpg",
+      "caption": "61sqn edward j boakes headstone 1",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "salthouse-lm720/61sqn-edward-j-boakes-headstone-2-w800.jpg",
+      "caption": "61sqn edward j boakes headstone 2",
+      "credit": "Aircrew Remembered"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Postcodes.io — Salthouse Norfolk NR25 at 52.950 1.090",
+      "Current 52.9504 1.0904 — essentially identical (minor rounding)"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "MINOR CORRECTION. Current coords (52.950, 1.090) match Salthouse NR25 to 4dp. Precision update only.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  }
 }
